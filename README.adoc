@@ -88,10 +88,6 @@ image::Logo-ICDC.png[]
 
 L'entreprise a été créée en 1959 par la CDC.
 
-L ‘entreprise était localisée à ...
-
-Elle était composée de .......... locaux ayant une superficie totale de ..................... m2.
-
 Son activité principale était la gestion du système d’information/informatique de la CDC.
 
 === L'entreprise aujourd'hui
@@ -114,7 +110,7 @@ ICDC a pour ambition de se renforcer dans les technologies de pointe comme l'int
 
 *L'entreprise a des partenaires comme le montre le schéma ci-dessous.*
 
-TO DO image
+image::Shema.png[]
 
 [cols=2*,options="header"]
 |===
@@ -122,7 +118,7 @@ TO DO image
 |Role
 
 | La caisse des dépôts et Consignations | Achètent et consomment les biens ou services de l'entreprise. Ils peuvent être des ménages ou d'autres entreprises.
-| ... | Réglemente l'activité de l'entreprise.
+| L'entreprise est régit par la convention collective https://www.syntec.fr/convention-collective/[SYNTEC] | Réglemente l'activité de l'entreprise.
 | L'électricité: EDF; Cisco : (réseaux); HP (ordinateur, écran, portables, certaines imprimantes); Konica (imprimantes multifonctions); Hitachi (disque dur de
  serveurs); Microsoft, Landesk, Citrix (OS, logiciel de gestion de parc et d’utilisateurs)| Apportent à l'entreprise les matières premières et les fournitures nécessaires à son activité.
 | Les sociétés Atos, Apside, OnePoint ou encore Econocom sont prestataires de services pour ICDC et
@@ -161,11 +157,11 @@ TO DO image
 |Qualification
 |Horaires
 
-| Architecte applicatis | ... | ...
-| Chef de projet | ... | ...
-| Développeur |  il faut être féru d'informatique et maîtriser les langages de développement web (PHP, SQL, Java, ASP…) | 9h-18h (8h de travail par jour)
-| DBA | ... | ...
-| Ingénieur DevOps | ... | ...
+| Architecte applicatif | BAC +5 école d'ingénieur ou master | 9h-18h (8h de travail par jour)
+| Chef de projet | BAC +5 école d'ingénieur ou master | 9h-18h (8h de travail par jour)
+| Développeur |  BAC +5 école d'ingénieur ou master | 9h-18h (8h de travail par jour)
+| DBA | BAC +5 école d'ingénieur ou master | 9h-18h (8h de travail par jour)
+| Ingénieur DevOps | BAC +5 école d'ingénieur ou master | 9h-18h (8h de travail par jour)
 
 |===
 
@@ -198,12 +194,12 @@ Voici le lien:
 
 *Choisir un bien ou un service fourni par l'entreprise.*
 
-* Quel est-il ? L'application du "Compte Personnel de Formation" qui permet a chaque 
+* Quel est-il ? L'application du https://play.google.com/store/apps/details?id=fr.icdc.sl6.app[Compte Personnel de Formation] qui permet a chaque 
 Français d'acheter une formation avec des droits acquis.
 
-* Appartient-il à une gamme de produits ou de services ? Oui Non
+* Appartient-il à une gamme de produits ou de services ? Oui
 
-* Si Oui : Citer un autre service ou produit de la gamme :..............................
+* Si Oui : Citer un autre service ou produit de la gamme: https://www.cnracl.retraites.fr/actif/mon-espace-personnel[Le portail] "Espace Personnel" de geston de la retraite des agents de la fonction publique est une plateforme Internet destinée aux actifs affiliés à l'un des fonds, ou caisses de retraites, gérés par la Direction des retraites et de la solidarité de la Caisse des Dépôts (CNRACL, RAFP, FSPOEIE, Ircantec...).
 
 *A propos de son prix de revient pour l'entreprise*
 
@@ -212,21 +208,17 @@ Français d'acheter une formation avec des droits acquis.
 [cols=2*]
 |===
 
-| ... | ...
-| ... | ...
+| Le salaire du personnel | Le prix des locaux
+| Le coût d'achats et fonctionnements du materiel | Le coût du personnel externe
 
 |===
 
 *A propos de son prix de vente fixé par l'entreprise*
 
-* Citer 2 éléments intervenant dans le prix de vente
+Le fait que ICDC soit un GIE implique qu'elle ne fait pas de bénéfices ni de pertes,
+elle revend à prix coûtant.
 
-[cols=2*]
-|===
 
-| ... | ...
-
-|===
 
 *Documentation*
 
