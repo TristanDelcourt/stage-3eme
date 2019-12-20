@@ -1,0 +1,548 @@
+= STAGE EN ENTREPRISE 2019-2020
+Tistan Delcourt <tristandelcourt826@gmail.com>
+:doctype: book
+:reproducible:
+:source-highlighter: rouge
+:listing-caption: Listing
+:sectnums:
+:chapter-label:
+:toc:
+:toclevels: 2
+:toc-title: Sommaire
+:imagesdir: images
+
+
+== Introduction (Préparation du stage)
+
+*Pour trouver mon stage, j'ai :*
+
+* Fait moi-même les démarches, aidé de mes parents.
+
+*J'ai fait les démarches :*
+
+* par lettre
+* par appel téléphonique
+* par mail
+
+*Avant d'avoir une réponse positive j'ai contacté 1 entreprise. J'ai trouvé
+ces démarches :*
+
+* plutôt faciles
+* plutôt difficiles.
+
+*Pourquoi ?*
+
+*J'ai trouvé un stage*
+
+* qui correspond beaucoup à mes intérêts professionnels. J'attends de ce stage de :
+* voir si les activités correspondent à l'idée que j'ai du métier
+* confirmer mon projet d'orientation
+
+*...Plus précisément, ce que je pense apprendre au cours de ce stage c'est :*
+
+Je pense que ce que je vais apprendre pendant le stage c'est exactement ce que
+je veut faire dans le futur : c'est-à-dire un travail dans le domaine de l'informatique
+(programmation, codage etc...). Je pense que je vais apprendre beaucoup de choses.
+
+== Fiche d'identité de l'entreprise
+
+image::Logo-ICDC.png[]
+
+*Nom (raison sociale) :* Informatique Caisses des dépôts et consignations
+
+*Adresse (siège social) :* 4 rue Berthollet 94110 ARCUEIL
+
+*Téléphone :* 01 58 50 00 00
+
+=== Analyze juridique
+
+* Organisation:
+** GIE, Groupement d'Intérêt Economique, qui intervient hors champ concurrentiel et
+ garantit une externalisation souple et sereine des actifs informatiques.
+
+=== Analyze sectorielle
+
+* *Nature de l'activité*
+
+** Prestataire de services
+
+* *Secteur d'activite*
+
+** Tertiaire
+
+=== Analyze dimensionnelle
+
+*Effectif :*
+
+* 794
+
+*Collaborateurs Taille :*
+
+* Grande (effectif >500)
+
+*Chiffre d'affaires :* 236 400 000€ en 2018
+
+== Historique de l'entreprise
+
+=== Origine de l'entreprise
+
+L'entreprise a été créée en 1959 par la CDC.
+
+L ‘entreprise était localisée à ...
+
+Elle était composée de .......... locaux ayant une superficie totale de ..................... m2.
+
+Son activité principale était la gestion du système d’information/informatique de la CDC.
+
+=== L'entreprise aujourd'hui
+
+L'entreprise appartient à la CDC
+
+Il y a maintenant 794 salariés.
+
+L'entreprise est située à plusieurs sites: Paris, Bordeaux, Angers, Arcueil (en locurence Bordeaux)
+
+Elle comporte ......... locaux ayant une superficie totale de ..................... m2.
+
+Son activité principale était la gestion du système d’information/informatique de la CDC.
+
+=== L'entreprise demain
+
+Quelles sont les évolutions prévues pour l'entreprise ?
+
+ICDC a pour ambition de se renforcer dans les technologies de pointe comme l'intelligence artificielle et le big data afin de produire des services et applications innovants pour ses clients.
+
+*L'entreprise a des partenaires comme le montre le schéma ci-dessous.*
+
+TO DO image
+
+[cols=2*,options="header"]
+|===
+|Nom des partenaires
+|Role
+
+| La caisse des dépôts et Consignations | Achètent et consomment les biens ou services de l'entreprise. Ils peuvent être des ménages ou d'autres entreprises.
+| ... | Réglemente l'activité de l'entreprise.
+| L'électricité: EDF; Cisco : (réseaux); HP (ordinateur, écran, portables, certaines imprimantes); Konica (imprimantes multifonctions); Hitachi (disque dur de
+ serveurs); Microsoft, Landesk, Citrix (OS, logiciel de gestion de parc et d’utilisateurs)| Apportent à l'entreprise les matières premières et les fournitures nécessaires à son activité.
+| Les sociétés Atos, Apside, OnePoint ou encore Econocom sont prestataires de services pour ICDC et
+ les accompagnent dans le développement et l'exploitation des logiciels informatique | Apportent à l'entreprise de très nombreux services qui lui sont
+ nécessaires pour fonctionner.
+| La caisse des dépôts et consignations | Apportent à l'entreprise l'argent nécessaire pour régler ses créances et l'aider dans ses investissements.
+
+|===
+
+
+== L'environnement de l'entreprise
+
+[cols=2*,options="header"]
+|===
+|Les partenaires
+|
+
+| Les clients, ménages ou entreprises ? | La CDC et l'INPI sont les clients d'ICDC
+| Administration | Citer au moins une loi réglementant l'activité de l'entreprise ...
+| Fournisseur | HP (ordinateur, écran, portables, certaines imprimantes)
+| Prestataires de service | Atos fourni des développeur, des testeurs...
+| Banques | Quels services la banque fournit-elle à l'entreprise ? ...
+
+|===
+
+== Les salariés
+
+*Nombre total de salariés :* 794
+
+*Nombre d'hommes :* 534 *Nombre de femmes :* 260
+
+[cols=3*,options="header"]
+.Les métiers pratiqués dans l'entreprise
+|===
+|Métier
+|Qualification
+|Horaires
+
+| Architecte applicatis | ... | ...
+| Chef de projet | ... | ...
+| Développeur |  il faut être féru d'informatique et maîtriser les langages de développement web (PHP, SQL, Java, ASP…) | 9h-18h (8h de travail par jour)
+| DBA | ... | ...
+| Ingénieur DevOps | ... | ...
+
+|===
+
+[cols=1*]
+.Le comité d'entreprise
+|===
+
+| *Existe t'il ?* Oui
+| *Quel est son röle dans l'entreprise ?* Il traite les axes
+stratégiques, il fait la gestion des finances
+
+|===
+
+[cols=1*]
+.Les représentants du personnel ou syndicaux
+|===
+
+| *Existent t'ils ?* Oui
+| *Quels sont leurs rôles dans une entreprise ?* Il règles les 
+problèmes individuels des employés.
+
+|===
+
+== L'organigramme
+
+image::Organigramme.png[]
+Voici le lien: 
+
+== L'activité principale
+
+*Choisir un bien ou un service fourni par l'entreprise.*
+
+* Quel est-il ? L'application du "Compte Personnel de Formation" qui permet a chaque 
+Français d'acheter une formation avec des droits acquis.
+
+* Appartient-il à une gamme de produits ou de services ? Oui Non
+
+* Si Oui : Citer un autre service ou produit de la gamme :..............................
+
+*A propos de son prix de revient pour l'entreprise*
+
+* Citer 4 éléments intervenant dans le calcul du prix de revient
+
+[cols=2*]
+|===
+
+| ... | ...
+| ... | ...
+
+|===
+
+*A propos de son prix de vente fixé par l'entreprise*
+
+* Citer 2 éléments intervenant dans le prix de vente
+
+[cols=2*]
+|===
+
+| ... | ...
+
+|===
+
+*Documentation*
+
+== Le métier observé
+
+Au cours de ton stage, tu choisiras une personne de l'entreprise, en fonction de tes intérêts professionnels.
+Il s'agira ensuite de l'interviewer afin de mieux connaître son métier et son parcours professionnel.
+
+*La personne que j'ai choisie:*
+
+* Son métier : Concepteur / Développeur informatique
+
+* Ses diplômes : Un DUT d'informatique et une license professionnelle d'informatique.
+
+=== En premier, quelques questions sur son métier
+
+[qanda]
+*Dans votre travail, quelles sont vos activités principales, celles que vous faites le plus souvent ?*::
+
+* Comprehension du besoin client
+* Conception de la solution technique
+* Developpement de la solution
+* Ecriture de tests automatisés pour vérifier le bonne implémentation des besoins client
+* Documentation de la solution technique ( avec AsciiDoc )
+
+*Parmi ces activités quelles sont celles que vous préférez ? Pourquoi ?*::
+
+* "Toutes car c’est un travail où la communication est très importante et
+ le travail en équipe indispensable. Le métier de développeur nécessite 
+ une perpétuelle remise en question afin de suivre le rythme d’évolution des
+ technologies"
+
+*Quelles sont vos conditions de travail ? Travaillez-vous plutôt en extérieur ou en bureau ?*::
+*Vous déplacez-vous régulièrement ?*::
+
+* "Assez peu de déplacement, parfois sur les autres sites du groupe ou pour des formations.
+Travaille 100% bureau mais dans de bonnes conditions qu’elles soient matérielles 
+(poste de travail, bureau, ...) ou immatérielles ( management à l'ecoute )."
+
+*Travaillez- vous plutôt en équipe, individuellement ou un peu des deux ?*::
+
+* "Je travail en équipe, c'est un des aspects les plus important de notre métier!
+Savoir communiquer est une qualité indispensable dans le réalisation d'un logiciel"
+
+*Prenez-vous des décisions qui engagent votre responsabilité ? si oui, dans quelles situations ?*::
+
+* "Je suis responsable de la bonne conception, de la bonne réalisation et
+de la qualité des logiciels développés ainsi que de leurs adéquations avec 
+le besoin exprimé"
+
+*Lorsque vous effectuez une activité, est-ce pour réaliser quelque chose qui vous a été demandé ?*::
+*Si oui, cette demande vient de vos clients ou de votre supérieur ?*::
+
+* "Oui, les besoins clients sont décrits et priorisé par une personne
+ dédiée dans l’équipe sans notion de hiérarchie (Le Product Owner) , c’est cette personne qui
+ décide quelles tâches sont à développer en priorité"
+ 
+*Pouvez- vous me dire quels sont pour vous les deux avantages principaux de votre métier ?*::
+*et les deux principales contraintes ?*::
+
+* Avantages : Travail en équipe et utilisation de nouvelles technologies
+* Contraintes : Ne pas être en contact directe avec l’utilisateur
+ finale et être toujours à jour avec les nouvelles technologies qui évoluent 
+ très vite.
+
+*A votre avis, quelles sont les qualités qui sont nécessaires pour pouvoir faire ce métier ?*::
+
+* Esprit Logique, organisé et savoir bien communiquer avec autrui
+
+*Pensez-vous qu'il y ait d'autre chose que je devrais savoir si, un jour, je veux faire votre métier ?*::
+
+* « Être développeur est pour moi un métier de passionné et exige des
+ efforts personnels en dehors du temps de travail pour être bien exécuté
+ (lectures, Conférences technologiques etc…) »
+
+===  Maintenant, quelques questions sur sa formation et de son parcours proffessionnel.
+
+[qanda]
+*Depuis quand exercez-vous ce métier (Donnez le nom du métier) ?*::
+
+* "Cela fait 12 ans que j'exerce le métier de développeur"
+
+*Avez- vous déjà fait ce travail dans d'autres entreprises ?*::
+
+* "Oui, Chez des ESN (Entreprise de service numérique): CGI et Apside"
+
+*Avez-vous déjà exercé d'autres métiers que celui-ci ? si oui, lesquels ?*::
+
+* "Oui, Des petits boulots d'été: Agent d'entretien et agent de cuisine dans un hopital
+
+*Quelle est votre formation ?*::
+
+* "Un IUT d'informatique option génie logiciel puis une license professionnelle d'informatique option image et son"
+
+*Moi, cette année, je suis en 3ème, est-ce que vous pouvez me dire quelles sont les formations que je pourrais suivre pour exercer votre métier un jour ?*::
+
+* "Au lycée, suivre un cursus scientifique avec si possible une option
+ d'infromatique ensuite un BTS ou un IUT d'informatique après le BAC.
+ Tu pourras poursuivre par une école d'ingénieur ou un master à l'université."
+
+== Programme du stage
+
+=== Introduction
+
+Du 12 au 20 Décembre une équipe d'informatique CDC m'ont accueilli pour mon stage
+de 3ème. Ludovic Callerot, mon maitre de stage, m'a fait un emploi du temps pour la
+semaine. J'ai pu voir différents métiers comme développeur, MOA, architect etc...
+
+=== L'équipe "Plateforme Employeur"
+
+
+
+=== Méthodologie de travail AGILE
+
+==== Qu'est-ce que c'est?
+
+C'est une façon de tavailler consistant à 
+
+==== Les différents rôles dans une équipe AGILE
+
+===== L'équipe de developpement
+
+===== Le scrum master
+
+===== Le product owner
+
+==== La notion de "Sprint"
+
+==== Le "daily meeting"
+
+Tous les jours l'équipe projet se réunit de 9h40 à 10h et parlent de ce
+qu'ils ont fait la veille et ce qu'ils vont faire aujourd'hui et les 
+problèmes qu'ils ont rencontrés
+
+==== L'affinage
+
+c'est une réunion toute les semaines où la MOA présente les nouvelles fonctionnalités à intégrer dans
+le logiciel et ils votent sur le nombre de points d'efforts
+necessaires à la réalisation de cette tâche.
+
+image::Affinage.jpg[]
+
+==== La revue de Sprint
+
+Toute les trois semaines (en locurence de 9h30 à 11h) l'équipe et quelques personnes en plus (utilisateurs du produits etc...)
+se réunnissent pour parler de ce qu'ils ont faits le dernier sprint sans donner de commentaire disant que c'est bien ou
+mal.
+
+==== La rétrospective
+
+Juste après le revue du sprint, l'équipe seul se réunit et parle des points positifs et négatifs du dernier sprint
+et ce qu'il faudrai améliorer.
+
+=== Ma semaine de stage
+
+==== Mon emploi du temps
+
+image::EmploisDuTemps.PNG[]
+ 
+==== Lundi 16 
+
+==== Daily meeting
+
+Le premier jour je me suis présenté et j'ai écouter ce q'on dit les autres.
+
+===== Environnement de travail
+
+Ils sont par équipes (en locurence 15 personnes). Ils ont chacun un ordinateur et ils travaillent
+sur des tâches à développer pour le projet. Il y a 7 developpeurs (Ludovic, Yoann, Vincent, Rémix, Maël, Alexandre; Ahmed)
+2 product owner (Pierre-Henry, Zineb), 1 scrum master (Alexia), 3 MOA (David, séverine, Bertrand) , 1 User experience designer (Nassim), 1 UI designer (Clément)
+
+image::Bureau.jpg[]
+
+===== Affinage
+
+J'ai pu paticiper à l'affinage en jouant au petit jeu de cartes. On a
+tous des cartes allant de 0 à 100 points d'efforts et chaque nouvelle fonctionnalité on vote. Voici sur quoi on a voté:
+
+* E11US11 – Notification par le header : 8 points d'efforts
+
+** En tant qu'utilisateur de la plateforme
+je souhaite avoir la liste de toutes les notifications
+afin d'être alerté des actions que je dois réaliser
+
+* E11US12 - Toutes les actualités : 8 points d'efforts
+
+** En tant qu'utilisateur de la plateforme
+je souhaite avoir la liste de toutes les actualités
+
+* E11US04 - Actualités sur tableau de bord : 3 points d'efforts
+
+** En tant qu'utilisateur de la plateforme
+je souhaite avoir les 3 dernières actualités
+
+* E11US05 – Tableau De Bord – Notifications : 2 points d'efforts
+
+** En tant qu'utilisateur de la plateforme
+je souhaite accéder au tableau de bord
+afin de consulter les notifications
+
+* E01US10 - Envoi du courrier : 20
+
+** En tant que Direction des Retraites et Solidarité,
+J'envoie un courrier d'information sur l'inscription (ou la création) de
+l'administrateur au représentant légal de la collectivité afin de
+l'informer d'une inscription à la plateforme Employeurs de la DRS
+
+===== Rencontre avec un architecte applicatif (Gilles)
+
+J'ai rencontré Gilles Capdet, c'est lui qui organise et shématise les relations entre les différents
+programmes et servers. On lui dit ce qu'il doit y avoir sur son shéma et il l'organise.
+
+===== Rencontre avec un chef de projet (Damien)
+
+J'ai rencontré Damien Bertrand, c'est lui qui dirige le déroulement des ces developeurs et ils codent aussi 
+quand il peut.
+
+=== Des notions que j'ai appris
+
+*Base de données*: Elle permet de stocker d'une façon organisé et permet de retrouver des
+informations en rapport avec un thème ou une activité très rapidement.
+
+*Points d'effots*: Permet de mesurer le temps et la difficulté de la 
+tâche à faire.
+
+*MOA*: (Maitrise d'Ouvrage) Ce sont les personnes qui sont en contacte avec les utilisateurs
+et ils écrivent des users stories (description de nouvelles fonctionnalités voulus).
+
+*UI*: (en anglais "user interface") Interface de l'utilisateur.
+
+==== Mardi 17
+
+===== Revue du Sprint
+
+===== Rétro sprint
+
+image::Roles.png[]
+
+J'ai pu prticiper au rétro en étand le "Gardien du temps", c'est  dire que
+je disais le nombre de minutes restantes à l'activité et quand c'était fini.
+Rémix était le distributeur de parole, Maël le scribe, et Alexandre le pousse-déscision.
+
+[.float-group]
+--
+image::Aime.jpg[Aime, 300, 200, float="left"]
+image::Souhaits.jpg[Souhaits, 300, 200, float="left"]
+--
+
+===== Rencontre avec un ingénieur DevOps (Phillipe)
+
+J'ai rencontré Phillipe Boudigues, c'est lui qui coordonne les processus entre le développement logiciel
+ et les équipes informatiques, afin de pouvoir créer, tester et publier
+ des logiciels plus rapidement et de manière plus fiable.
+
+===== Viste de la data centre
+
+Cette salle est où tout les ordinateurs qui executent les VM sont réunis
+et elle est climatisé intensivement car tout les ordinateurs font fonctionner
+plus de 2000 VM alors la salle peut chauffer très vite.
+
+===== Des notions que j'ai appris
+
+*Le cloud*: Le Cloud est une technologie qui permet
+ de mettre sur des serveurs localisés a distance des données de stockage
+ ou des logiciels qui sont habituellement stockés sur l'ordinateur d'un
+ utilisateur
+ 
+*VM*: une machine virtuelle (anglais virtual machine, abr. VM) est une
+ illusion d'un appareil informatique créée par un logiciel d'émulation
+ ou instanciée sur un hyperviseur.
+ 
+*Hyperviseur*: un hyperviseur est une plate-forme de virtualisation qui
+ permet à plusieurs systèmes d'exploitation de travailler sur une même
+ machine physique en même temps.
+ 
+*DevOps*: DevOps est un ensemble de pratiques qui automatise les
+ processus entre le développement logiciel et les équipes informatiques,
+ afin de pouvoir créer, tester et publier des logiciels plus rapidement
+ et de manière plus fiable.
+ 
+
+
+==== Vendredi
+
+
+
+==== Mercredi 18
+
+===== Rencontre avec une équipe de DBAs
+
+L'équipe DBA (en anglais "Data Base) est l'équipe qui prend en charge
+la maintenance des bases de données. Ils vérifient qu'ils n'y a
+pas de problèmes et si il y en a il essayent de les réparer.
+
+===== Des notions que j'ai appris
+
+*OS*: (en anglais "operating system")(Système d'exploitations) permet de
+diriger l'utilisation des ressources d'un ordinateur par des logiciels applicatifs.
+Ex: Linus, Windows, Unix etc...
+
+==== Jeudi
+
+===== Réunion de service
+
+Dans ses 2 heures de réunion, une personne de la sécurité informatique
+nous a présenté les résultats d'un audit de sécurité e toutes les applications
+de la caisse des dépots. Ces applications étant organisé par niveau de
+sécurité allant de faible à fort. Les applications faibles présentants
+un risques d'intrusions.
+
+
+
+== Le compte rendu (Bilan)
+
+== La lettre de motivation
+
+image::Lettre-Mot.jpg[]
+
+== La lettre de remerciement
