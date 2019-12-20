@@ -218,8 +218,6 @@ Français d'acheter une formation avec des droits acquis.
 Le fait que ICDC soit un GIE implique qu'elle ne fait pas de bénéfices ni de pertes,
 elle revend à prix coûtant.
 
-
-
 *Documentation*
 
 == Le métier observé
@@ -323,35 +321,74 @@ le besoin exprimé"
 
 === Introduction
 
-Du 12 au 20 Décembre une équipe d'informatique CDC m'ont accueilli pour mon stage
+Du 12 au 20 Décembre une équipe d'informatique CDC m'a accueilli pour mon stage
 de 3ème. Ludovic Callerot, mon maitre de stage, m'a fait un emploi du temps pour la
-semaine. J'ai pu voir différents métiers comme développeur, MOA, architect etc...
+semaine. J'ai pu voir différents métiers comme développeur, MOA, architecte etc...
+
+J'ai donc passé ma semaine de stage au sein de cette équipe où j'ai pu observer et 
+partager leur quotidien.
 
 === L'équipe "Plateforme Employeur"
 
+Cette équipe travaille à l'élaboration de la nouvelle "Plateforme Employeur" que 
+la Caisse des Dépôts et Consignation souhaite mettre à disposition des employeurs publics.
+Cette plateforme embarquera un ensemble de services qui permettrons par exemple à un 
+employeur de pouvoir faire des demandes de retraite pour ses employés, ...
 
+Ce projet à commencé debut Septembre 2019 avec un objectif de mise en service mi-Mars 2020.
+
+Dans ce but l'équipe travail avec la méthodologie "Agile".
 
 === Méthodologie de travail AGILE
 
 ==== Qu'est-ce que c'est?
 
-C'est une façon de tavailler consistant à 
+C'est une méthode de travail à l'echelle d'une équipe qui consiste à developper et 
+livrer un logiciel fonctionnel de façon itérative (toute les 3 semaines).
+
+image::Agilite.png[]
+
+Une itération est appelé un "Sprint", et pendant ce "Sprint", de nouvelles 
+fonctionnalités sont ajoutées au logiciel puis montré au client (Revue de Sprint).
+
+A la fin de chaque Sprint, une démonstration du logiciel est donc effectué en présence du Client,
+et enfin une "rétropective" est faite entre les membres de l'équipe.
+La rétrospective permet à l'équipe de comprendre ce qui s'est bien passé et moins bien passé 
+pendant le Sprint et d'en dégager des actions pour s'améliorer.
+
 
 ==== Les différents rôles dans une équipe AGILE
 
 ===== L'équipe de developpement
 
+L'equipe de developpement regroupe toutes les personnes permettant la réalisation 
+du logiciel, à savoir ici : 
+
+* Les développeurs : Ceux qui developpent l'application
+* L'UX et l'UI : Ceux qui définissent coment s'utilise l'application et à quoi elle ressemble
+
 ===== Le scrum master
+
+Il doit s'assurer que tous les membre de l'équipe respectent les principes Agile.
+Il n'est pas un "chef" et doit donner à l'équipe les "clés" de la reussite.
 
 ===== Le product owner
 
+C'est lui qui définie et priorise les fonctionnalités de l'application à developper.
+Il a la responsabilité de comprendre le besoin du client pour le retranscrire à 
+l'équipe de developpement.
+
 ==== La notion de "Sprint"
+
+Un Sprint est donc une itération dans le developpement du logiciel.
+A la fin d'un Sprint, le logiciel doit avoir des fonctionnalités supplémentaires 
+priorisées par le "product owner", et celle-ci doivent être utilisables.
 
 ==== Le "daily meeting"
 
 Tous les jours l'équipe projet se réunit de 9h40 à 10h et parlent de ce
 qu'ils ont fait la veille et ce qu'ils vont faire aujourd'hui et les 
-problèmes qu'ils ont rencontrés
+problèmes qu'ils ont rencontrés.
 
 ==== L'affinage
 
@@ -364,12 +401,11 @@ image::Affinage.jpg[]
 ==== La revue de Sprint
 
 Toute les trois semaines (en locurence de 9h30 à 11h) l'équipe et quelques personnes en plus (utilisateurs du produits etc...)
-se réunnissent pour parler de ce qu'ils ont faits le dernier sprint sans donner de commentaire disant que c'est bien ou
-mal.
+se réunnissent pour faire une démonstration de ce qui a été developpé dans le Sprint passé et avoir les retours du client.
 
 ==== La rétrospective
 
-Juste après le revue du sprint, l'équipe seul se réunit et parle des points positifs et négatifs du dernier sprint
+Juste après le revue du sprint, l'équipe seule se réunit et parle des points positifs et négatifs du dernier sprint
 et ce qu'il faudrai améliorer.
 
 === Ma semaine de stage
@@ -498,10 +534,6 @@ plus de 2000 VM alors la salle peut chauffer très vite.
  processus entre le développement logiciel et les équipes informatiques,
  afin de pouvoir créer, tester et publier des logiciels plus rapidement
  et de manière plus fiable.
- 
-
-
-==== Vendredi
 
 
 
@@ -529,7 +561,83 @@ de la caisse des dépots. Ces applications étant organisé par niveau de
 sécurité allant de faible à fort. Les applications faibles présentants
 un risques d'intrusions.
 
+==== Vendredi
 
+Développement d'un jeu du "pendu" avec mon maître de stage : 
+
+Voici la méthode principale du jeu developpé.
+
+Le code source complet est disponible ici TODO
+
+[source,java]
+----
+public static void main(String[] args) {
+		System.out.println("Bienveue sur le jeu de Pendu codé par Tristan Delcourt");
+
+		String nomJoueurUn;
+		String nomJoueurDeux;
+		String motADeviner;
+		String[] motEnCoursDeResolution;
+		String lettre;
+		int nbErreurs = 0;
+
+		// On demande au joueur 1 son nom
+		System.out.println("Joueur 1, tapez votre nom");
+		Scanner in = new Scanner(System.in);
+		nomJoueurUn = in.nextLine();
+
+		// On demande au joueur 2 son nom
+		System.out.println("Joueur 2, tapez votre nom");
+		nomJoueurDeux = in.nextLine();
+
+		System.out.println(nomJoueurUn + " écrivez votre mot deviner. " + nomJoueurDeux + " ne regardez pas!");
+		motADeviner = in.nextLine().toUpperCase();
+		clearScreen();
+
+		// On calcul le mot en cours de résolution
+		motEnCoursDeResolution = new String[motADeviner.length()];
+		for (int i = 0; i < motADeviner.length(); i++) {
+			motEnCoursDeResolution[i] = "_";
+		}
+		System.out.println(getMotEnCoursDeResolutionToDisplay(motEnCoursDeResolution));
+
+		do {
+
+			// Le joueur 2 propose une lettre
+			System.out.println(nomJoueurDeux + " tape une lettre!");
+			lettre = in.nextLine().toUpperCase();
+			clearScreen();
+			EtapesPendu.afficherEtape(nbErreurs);
+
+			if (motADeviner.contains(lettre)) {
+				String tmp = motADeviner;
+				int position = tmp.indexOf(lettre);
+				while (position >= 0) {
+					motEnCoursDeResolution[position] = lettre;
+					tmp = tmp.replaceFirst(lettre, "|");
+					position = tmp.indexOf(lettre);
+				}
+
+				System.out.println(getMotEnCoursDeResolutionToDisplay(motEnCoursDeResolution));
+
+			} else {
+				System.out.println("Erreur il n'y pas la lettre " + lettre + " dans le mot à deviner");
+				nbErreurs = nbErreurs + 1;
+				EtapesPendu.afficherEtape(nbErreurs);
+				System.out.println(getMotEnCoursDeResolutionToDisplay(motEnCoursDeResolution));
+			}
+
+		} while (!motEstDevine(motADeviner, motEnCoursDeResolution) && nbErreursPasDepasse(nbErreurs));
+
+		if (nbErreursPasDepasse(nbErreurs)) {
+			System.out.println("Bravo! " + nomJoueurDeux + " Tu as gagné!");
+		} else {
+			System.out.println(nomJoueurDeux + " t'es nul t'as perdu. " + "Le mot était: " + motADeviner
+					+ " et tu as trouvé: " + getMotEnCoursDeResolutionToDisplay(motEnCoursDeResolution));
+		}
+
+	}
+----
 
 == Le compte rendu (Bilan)
 
