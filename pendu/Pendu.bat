@@ -1,1 +1,0 @@
-start powershell -noexit -file "pendu.ps1"
