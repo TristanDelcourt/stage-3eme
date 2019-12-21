@@ -733,7 +733,7 @@ public static void main(String[] args) {
 		}
 
 	}
----
+----
 
 ==== Le "daily meeting par Skype
 
