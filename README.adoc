@@ -453,8 +453,7 @@ sur mon PC.
 *En gras*
 ----
 
-[.text-center]
-image::Fleche.png[width=100]
+image::Fleche.png[width=100, align="center"]
 
 image::Ruby.png[align="center"]
 
