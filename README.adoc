@@ -11,8 +11,20 @@ Tistan Delcourt <tristandelcourt826@gmail.com>
 :toc-title: Sommaire
 :imagesdir: images
 
+== Introduction
 
-== Introduction (Préparation du stage)
+J'ai effectué mon stage de 3ème à Informatique CDC (ICDC) à Bordeaux.
+Cette entreprise faisant parti du milieu informatique, mon maitre de stage
+m'a proposé de faire mon rapport avec https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[asciidoc].
+C'est un outils pour écrire des documents plus facilement et rapidement sans se soucier de l'aspect visuel.
+
+Présentation asciidoctor: https://www.youtube.com/watch?v=T6YJlaY0Dpw
+
+video::T6YJlaY0Dpw[youtube, width=640, height=360, align="center"]
+
+== L'entreprise
+
+=== Préparation du stage
 
 *Pour trouver mon stage, j'ai :*
 
@@ -44,9 +56,9 @@ Je pense que ce que je vais apprendre pendant le stage c'est exactement ce que
 je veut faire dans le futur : c'est-à-dire un travail dans le domaine de l'informatique
 (programmation, codage etc...). Je pense que je vais apprendre beaucoup de choses.
 
-== Fiche d'identité de l'entreprise
+=== Fiche d'identité de l'entreprise
 
-image::Logo-ICDC.png[]
+image::cdc-informatique-logo.svg[width=600, align="center"]
 
 *Nom (raison sociale) :* Informatique Caisses des dépôts et consignations
 
@@ -54,13 +66,13 @@ image::Logo-ICDC.png[]
 
 *Téléphone :* 01 58 50 00 00
 
-=== Analyze juridique
+==== Analyze juridique
 
 * Organisation:
 ** GIE, Groupement d'Intérêt Economique, qui intervient hors champ concurrentiel et
  garantit une externalisation souple et sereine des actifs informatiques.
 
-=== Analyze sectorielle
+==== Analyze sectorielle
 
 * *Nature de l'activité*
 
@@ -70,7 +82,7 @@ image::Logo-ICDC.png[]
 
 ** Tertiaire
 
-=== Analyze dimensionnelle
+==== Analyze dimensionnelle
 
 *Effectif :*
 
@@ -82,15 +94,15 @@ image::Logo-ICDC.png[]
 
 *Chiffre d'affaires :* 236 400 000€ en 2018
 
-== Historique de l'entreprise
+=== Historique de l'entreprise
 
-=== Origine de l'entreprise
+==== Origine de l'entreprise
 
 L'entreprise a été créée en 1959 par la CDC.
 
 Son activité principale était la gestion du système d’information/informatique de la CDC.
 
-=== L'entreprise aujourd'hui
+==== L'entreprise aujourd'hui
 
 L'entreprise appartient à la CDC
 
@@ -98,15 +110,14 @@ Il y a maintenant 794 salariés.
 
 L'entreprise est située à plusieurs sites: Paris, Bordeaux, Angers, Arcueil (en locurence Bordeaux)
 
-Elle comporte ......... locaux ayant une superficie totale de ..................... m2.
-
 Son activité principale était la gestion du système d’information/informatique de la CDC.
 
-=== L'entreprise demain
+==== L'entreprise demain
 
 Quelles sont les évolutions prévues pour l'entreprise ?
 
-ICDC a pour ambition de se renforcer dans les technologies de pointe comme l'intelligence artificielle et le big data afin de produire des services et applications innovants pour ses clients.
+ICDC a pour ambition de se renforcer dans les technologies de pointe comme l'intelligence artificielle,
+le machine learning et le big data afin de produire des services et applications innovants pour ses clients.
 
 *L'entreprise a des partenaires comme le montre le schéma ci-dessous.*
 
@@ -129,7 +140,7 @@ image::Shema.png[]
 |===
 
 
-== L'environnement de l'entreprise
+=== L'environnement de l'entreprise
 
 [cols=2*,options="header"]
 |===
@@ -137,14 +148,14 @@ image::Shema.png[]
 |
 
 | Les clients, ménages ou entreprises ? | La CDC et l'INPI sont les clients d'ICDC
-| Administration | Citer au moins une loi réglementant l'activité de l'entreprise ...
+| Administration | La https://www.editions-legislatives.fr/actualite/formation-professionnelle-ce-qui-change-au-1er-janvier-2019[loi Avenir professionnel] du 5 septembre 2018 a opéré une nouvelle réforme de la formation professionnelle.
 | Fournisseur | HP (ordinateur, écran, portables, certaines imprimantes)
 | Prestataires de service | Atos fourni des développeur, des testeurs...
 | Banques | Quels services la banque fournit-elle à l'entreprise ? ...
 
 |===
 
-== Les salariés
+=== Les salariés
 
 *Nombre total de salariés :* 794
 
@@ -185,12 +196,11 @@ problèmes individuels des employés.
 
 |===
 
-== L'organigramme
+=== L'organigramme
 
 image::Organigramme.png[]
-Voici le lien: 
 
-== L'activité principale
+=== L'activité principale
 
 *Choisir un bien ou un service fourni par l'entreprise.*
 
@@ -209,7 +219,7 @@ Français d'acheter une formation avec des droits acquis.
 |===
 
 | Le salaire du personnel | Le prix des locaux
-| Le coût d'achats et fonctionnements du materiel | Le coût du personnel externe
+| Le coût d'achats et fonctionnements du materiel | Le coût du personnel externe (les prestataires)
 
 |===
 
@@ -218,14 +228,11 @@ Français d'acheter une formation avec des droits acquis.
 Le fait que ICDC soit un GIE implique qu'elle ne fait pas de bénéfices ni de pertes,
 elle revend à prix coûtant.
 
-*Documentation*
-
 == Le métier observé
 
-Au cours de ton stage, tu choisiras une personne de l'entreprise, en fonction de tes intérêts professionnels.
-Il s'agira ensuite de l'interviewer afin de mieux connaître son métier et son parcours professionnel.
+*La personne que j'ai choisie:* 
 
-*La personne que j'ai choisie:*
+* Son nom : Ludovic Callerot
 
 * Son métier : Concepteur / Développeur informatique
 
@@ -277,7 +284,8 @@ le besoin exprimé"
 *Pouvez- vous me dire quels sont pour vous les deux avantages principaux de votre métier ?*::
 *et les deux principales contraintes ?*::
 
-* Avantages : Travail en équipe et utilisation de nouvelles technologies
+* Avantages : Le travail en équipe et la sensation de rendre la vie de 
+nos utilisateurs plus simple
 * Contraintes : Ne pas être en contact directe avec l’utilisateur
  finale et être toujours à jour avec les nouvelles technologies qui évoluent 
  très vite.
@@ -288,16 +296,15 @@ le besoin exprimé"
 
 *Pensez-vous qu'il y ait d'autre chose que je devrais savoir si, un jour, je veux faire votre métier ?*::
 
-* « Être développeur est pour moi un métier de passionné et exige des
- efforts personnels en dehors du temps de travail pour être bien exécuté
- (lectures, Conférences technologiques etc…) »
+* "Être développeur est pour moi un métier de passionné et exige de se remettre en question très souvent. 
+Les technologies et les besoins utilisateurs évoluant trés vite, il faut avoir une grande soif d'apprendre."
 
 ===  Maintenant, quelques questions sur sa formation et de son parcours proffessionnel.
 
 [qanda]
 *Depuis quand exercez-vous ce métier (Donnez le nom du métier) ?*::
 
-* "Cela fait 12 ans que j'exerce le métier de développeur"
+* "Cela fait 12 ans que j'exerce le métier de développeur logiciel"
 
 *Avez- vous déjà fait ce travail dans d'autres entreprises ?*::
 
@@ -321,7 +328,7 @@ le besoin exprimé"
 
 === Introduction
 
-Du 12 au 20 Décembre une équipe d'informatique CDC m'a accueilli pour mon stage
+Du *16 au 20 Décembre* une équipe d'informatique CDC m'a accueilli pour mon stage
 de 3ème. Ludovic Callerot, mon maitre de stage, m'a fait un emploi du temps pour la
 semaine. J'ai pu voir différents métiers comme développeur, MOA, architecte etc...
 
@@ -335,7 +342,7 @@ la Caisse des Dépôts et Consignation souhaite mettre à disposition des employ
 Cette plateforme embarquera un ensemble de services qui permettrons par exemple à un 
 employeur de pouvoir faire des demandes de retraite pour ses employés, ...
 
-Ce projet à commencé debut Septembre 2019 avec un objectif de mise en service mi-Mars 2020.
+Ce projet à commencé debut Septembre 2019 avec un objectif de mise en service en 2020.
 
 Dans ce but l'équipe travail avec la méthodologie "Agile".
 
@@ -364,15 +371,15 @@ pendant le Sprint et d'en dégager des actions pour s'améliorer.
 L'equipe de developpement regroupe toutes les personnes permettant la réalisation 
 du logiciel, à savoir ici : 
 
-* Les développeurs : Ceux qui developpent l'application
-* L'UX et l'UI : Ceux qui définissent coment s'utilise l'application et à quoi elle ressemble
+* *Les développeurs* : Ceux qui developpent l'application
+* *L'UX designer et l'UI designer* : Ceux qui définissent coment s'utilise l'application et à quoi elle ressemble
 
-===== Le scrum master
+===== Le Scrum Master
 
 Il doit s'assurer que tous les membre de l'équipe respectent les principes Agile.
 Il n'est pas un "chef" et doit donner à l'équipe les "clés" de la reussite.
 
-===== Le product owner
+===== Le Product Owner
 
 C'est lui qui définie et priorise les fonctionnalités de l'application à developper.
 Il a la responsabilité de comprendre le besoin du client pour le retranscrire à 
@@ -380,9 +387,9 @@ l'équipe de developpement.
 
 ==== La notion de "Sprint"
 
-Un Sprint est donc une itération dans le developpement du logiciel.
+Un Sprint est donc une itération dans le developpement du logiciel de 3 semaines.
 A la fin d'un Sprint, le logiciel doit avoir des fonctionnalités supplémentaires 
-priorisées par le "product owner", et celle-ci doivent être utilisables.
+priorisées par le "Product Owner", et celle-ci doivent être utilisables.
 
 ==== Le "daily meeting"
 
@@ -390,15 +397,15 @@ Tous les jours l'équipe projet se réunit de 9h40 à 10h et parlent de ce
 qu'ils ont fait la veille et ce qu'ils vont faire aujourd'hui et les 
 problèmes qu'ils ont rencontrés.
 
-==== L'affinage
+==== L'affinage (Planning Poker)
 
-c'est une réunion toute les semaines où la MOA présente les nouvelles fonctionnalités à intégrer dans
+C'est une réunion toute les semaines où la MOA présente les nouvelles fonctionnalités à intégrer dans
 le logiciel et ils votent sur le nombre de points d'efforts
 necessaires à la réalisation de cette tâche.
 
 image::Affinage.jpg[]
 
-==== La revue de Sprint
+==== La revue de Sprint (Sprint Review)
 
 Toute les trois semaines (en locurence de 9h30 à 11h) l'équipe et quelques personnes en plus (utilisateurs du produits etc...)
 se réunnissent pour faire une démonstration de ce qui a été developpé dans le Sprint passé et avoir les retours du client.
@@ -408,19 +415,99 @@ se réunnissent pour faire une démonstration de ce qui a été developpé dans 
 Juste après le revue du sprint, l'équipe seule se réunit et parle des points positifs et négatifs du dernier sprint
 et ce qu'il faudrai améliorer.
 
-=== Ma semaine de stage
+==== Le Sprint Planning (Plannification du Sprint)
 
-==== Mon emploi du temps
+Cette cérémonie a lieu juste apres la rétrospective et avant le debut du prochain Sprint.
+L'equipe décide des fonctionnalités qui sont embarquées dans le prochain Sprint.
+
+== Ma semaine de stage
+
+=== Mon emploi du temps
 
 image::EmploisDuTemps.PNG[]
+
+=== L'écriture du rapport de stage
+
+==== AsciiDoc
+
+Chaque fin de journée j'ai écrit une partie du rapport sur asciidoc.
+Mais pour transformer le fichier `.adoc` en `.pdf` il fallait utiliser un 
+outils nommé asciidoctorPDF basé sur le langage Ruby que j'ai du installer 
+sur mon PC.
+
+[source,asciidoc]
+----
+//Ceci est un titre
+== Titre de niveau 1
+
+=== Un sous titre
+
+* Premier point
+
+** 1
+
+** 2
+
+** 3
+
+*En gras*
+----
+
+image::Fleche.png[width=100, align="center"]
+
+image::Ruby.png[align="center"]
+
+image::Fleche.png[width=100, align="center"]
+
+image::Exemple-pdf.jpg[align="center"]
+
+==== GitHub
+
+GitHub est un service web d'hébergement et de gestion de développement de logiciels, 
+utilisant le logiciel de gestion de versions Git.
+
+C'est ici que la plupart de sociétés publient du code en OpenSource.
+Par exemple voici les dépots de code :
+
+* de Google : https://github.com/google/
+* de Microsoft : https://github.com/MicrosoftLearning/
+
+J'ai moi meme créé mon propre depôt de code sur GitHub pour y deposer
+mon rapport de stage et le jeu du pendu.
+
+Voici les principales commandes que j'ai utilisé pour publier mon code : 
+
+[source,java]
+----
+// On indique à Git les fichiers qu'il doit prendre en compte dans son point de sauvegarde.
+git add --all
+---- 
+
+[source,java]
+----
+// On regarde l'etat du dépôt Git en local.
+git status
+---- 
+
+[source,java]
+----
+// Création du point de sauvegarde avec un message de description.
+git commit -m "<description de la modification>"
+---- 
+
+[source,java]
+----
+// Envoi sur GitHub les points de sauvegarde embarquants les modifications.
+git push
+---- 
  
-==== Lundi 16 
+=== Lundi 16 
 
 ==== Daily meeting
 
 Le premier jour je me suis présenté et j'ai écouter ce q'on dit les autres.
 
-===== Environnement de travail
+==== Environnement de travail
 
 Ils sont par équipes (en locurence 15 personnes). Ils ont chacun un ordinateur et ils travaillent
 sur des tâches à développer pour le projet. Il y a 7 developpeurs (Ludovic, Yoann, Vincent, Rémix, Maël, Alexandre; Ahmed)
@@ -428,7 +515,7 @@ sur des tâches à développer pour le projet. Il y a 7 developpeurs (Ludovic, Y
 
 image::Bureau.jpg[]
 
-===== Affinage
+==== Affinage
 
 J'ai pu paticiper à l'affinage en jouant au petit jeu de cartes. On a
 tous des cartes allant de 0 à 100 points d'efforts et chaque nouvelle fonctionnalité on vote. Voici sur quoi on a voté:
@@ -462,17 +549,17 @@ J'envoie un courrier d'information sur l'inscription (ou la création) de
 l'administrateur au représentant légal de la collectivité afin de
 l'informer d'une inscription à la plateforme Employeurs de la DRS
 
-===== Rencontre avec un architecte applicatif (Gilles)
+==== Rencontre avec un architecte applicatif (Gilles)
 
 J'ai rencontré Gilles Capdet, c'est lui qui organise et shématise les relations entre les différents
 programmes et servers. On lui dit ce qu'il doit y avoir sur son shéma et il l'organise.
 
-===== Rencontre avec un chef de projet (Damien)
+==== Rencontre avec un chef de projet (Damien)
 
 J'ai rencontré Damien Bertrand, c'est lui qui dirige le déroulement des ces developeurs et ils codent aussi 
 quand il peut.
 
-=== Des notions que j'ai appris
+==== Les notions que j'ai appris
 
 *Base de données*: Elle permet de stocker d'une façon organisé et permet de retrouver des
 informations en rapport avec un thème ou une activité très rapidement.
@@ -485,11 +572,16 @@ et ils écrivent des users stories (description de nouvelles fonctionnalités vo
 
 *UI*: (en anglais "user interface") Interface de l'utilisateur.
 
-==== Mardi 17
+=== Mardi 17
 
-===== Revue du Sprint
+==== Revue du Sprint
 
-===== Rétro sprint
+L'equipe a présenté le travail qu'il ont fait pendant le Sprint. 
+Chaque membre de l'équipe à fait une démonstration de la fonctionnalité qu'il a développé
+
+image::Demo.jpg[]
+
+==== Rétro sprint
 
 image::Roles.png[]
 
@@ -497,25 +589,23 @@ J'ai pu prticiper au rétro en étand le "Gardien du temps", c'est  dire que
 je disais le nombre de minutes restantes à l'activité et quand c'était fini.
 Rémix était le distributeur de parole, Maël le scribe, et Alexandre le pousse-déscision.
 
-[.float-group]
---
-image::Aime.jpg[Aime, 300, 200, float="left"]
-image::Souhaits.jpg[Souhaits, 300, 200, float="left"]
---
+image::Aime.jpg[align="center"]
 
-===== Rencontre avec un ingénieur DevOps (Phillipe)
+image::Souhaits.jpg[align="center"]
+
+==== Rencontre avec un ingénieur DevOps (Phillipe)
 
 J'ai rencontré Phillipe Boudigues, c'est lui qui coordonne les processus entre le développement logiciel
  et les équipes informatiques, afin de pouvoir créer, tester et publier
  des logiciels plus rapidement et de manière plus fiable.
 
-===== Viste de la data centre
+==== Visite du "data center"
 
 Cette salle est où tout les ordinateurs qui executent les VM sont réunis
 et elle est climatisé intensivement car tout les ordinateurs font fonctionner
 plus de 2000 VM alors la salle peut chauffer très vite.
 
-===== Des notions que j'ai appris
+==== Des notions que j'ai appris
 
 *Le cloud*: Le Cloud est une technologie qui permet
  de mettre sur des serveurs localisés a distance des données de stockage
@@ -535,25 +625,23 @@ plus de 2000 VM alors la salle peut chauffer très vite.
  afin de pouvoir créer, tester et publier des logiciels plus rapidement
  et de manière plus fiable.
 
+=== Mercredi 18
 
-
-==== Mercredi 18
-
-===== Rencontre avec une équipe de DBAs
+==== Rencontre avec une équipe de DBAs
 
 L'équipe DBA (en anglais "Data Base) est l'équipe qui prend en charge
 la maintenance des bases de données. Ils vérifient qu'ils n'y a
 pas de problèmes et si il y en a il essayent de les réparer.
 
-===== Des notions que j'ai appris
+==== Des notions que j'ai appris
 
 *OS*: (en anglais "operating system")(Système d'exploitations) permet de
 diriger l'utilisation des ressources d'un ordinateur par des logiciels applicatifs.
 Ex: Linus, Windows, Unix etc...
 
-==== Jeudi
+=== Jeudi
 
-===== Réunion de service
+==== Réunion de service
 
 Dans ses 2 heures de réunion, une personne de la sécurité informatique
 nous a présenté les résultats d'un audit de sécurité e toutes les applications
@@ -561,13 +649,16 @@ de la caisse des dépots. Ces applications étant organisé par niveau de
 sécurité allant de faible à fort. Les applications faibles présentants
 un risques d'intrusions.
 
-==== Vendredi
+=== Vendredi
 
-Développement d'un jeu du "pendu" avec mon maître de stage : 
+J'ai développé avec l'aide de mon maître de stage le jeu du "pendu" afin
+de voir concretement ce qu'est le developpement d'un programme informatique.
+
+Le language de programmation utilisé est `Java`.
 
 Voici la méthode principale du jeu developpé.
 
-Le code source complet est disponible ici TODO
+Le code source complet est disponible https://github.com/TristanDelcourt/stage-3eme/tree/master/code-pendu/src/fr/icdc/dei/pendu[ici]
 
 [source,java]
 ----
@@ -639,7 +730,15 @@ public static void main(String[] args) {
 	}
 ----
 
-== Le compte rendu (Bilan)
+== Bilan
+
+TODO
+
+* Est-ce que ca a repondu a tes attentes? au dessus ? au dessous ?
+* Qu-est ce que t'as le plus aimé? le moins?
+* Qu'est ce que tu retirndra de ce stage ?
+* Est- ce que ca t'as donné envie de faire de l'informatique ?
+...
 
 == La lettre de motivation
 
