@@ -20,8 +20,6 @@ C'est un outils pour écrire des documents plus facilement et rapidement sans se
 
 Présentation asciidoctor: https://www.youtube.com/watch?v=T6YJlaY0Dpw
 
-video::T6YJlaY0Dpw[youtube, width=640, height=360, align="center"]
-
 == L'entreprise
 
 === Préparation du stage
@@ -40,7 +38,6 @@ video::T6YJlaY0Dpw[youtube, width=640, height=360, align="center"]
 ces démarches :*
 
 * plutôt faciles
-* plutôt difficiles.
 
 *Pourquoi ?*
 
@@ -649,8 +646,16 @@ de la caisse des dépots. Ces applications étant organisé par niveau de
 sécurité allant de faible à fort. Les applications faibles présentants
 un risques d'intrusions.
 
+==== Les pauses
+
+Entre midi et 14h l'équipe à un temps de pause et j'ai pu apprendre beaucoup de choses à propos du jeu FIFA 20.
+Ce temps est important pour se relâcher et prendre du recule sur les tâches en cours.
+
+TODO image FIFA
+
 === Vendredi
 
+==== Le jeu du pendu
 J'ai développé avec l'aide de mon maître de stage le jeu du "pendu" afin
 de voir concretement ce qu'est le developpement d'un programme informatique.
 
@@ -728,17 +733,20 @@ public static void main(String[] args) {
 		}
 
 	}
-----
+---
+
+==== Le "daily meeting par Skype
+
+Le vendrdi une partie de l'équipe décident de travailler de chez eux (cela s'appelle le télétravail). Le daily meeting ce fait donc
+par Skype pour dialogué avec tout les membres de l'équipe.
 
 == Bilan
 
-TODO
-
-* Est-ce que ca a repondu a tes attentes? au dessus ? au dessous ?
-* Qu-est ce que t'as le plus aimé? le moins?
-* Qu'est ce que tu retirndra de ce stage ?
-* Est- ce que ca t'as donné envie de faire de l'informatique ?
-...
+J'ai été plûtot surpris par mon stage. Je ne m'attendais pas à ce qu'il y est autant de réunion et de RDV.
+Mais j'ai beaucoup appris et j'ai bien aimé. J'ai le plus aimé le codage du jeu de pendu car j'ai pu vriment comprendre
+ce que c'est le codage et j'ai trouvé ça très satisfaisant de finir un programme.
+Je retiendrais que toutes l'organisation est très important et ce n'est pas juste du codage.
+Si j'avais l'occasion de faire de l'informatique je suis presque sûr que je prendrais cette chance car j'ai été très intéréssé.
 
 == La lettre de motivation
 
