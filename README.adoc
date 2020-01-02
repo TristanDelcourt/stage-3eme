@@ -2,7 +2,6 @@
 Tistan Delcourt <tristandelcourt826@gmail.com>
 :doctype: book
 :reproducible:
-:source-highlighter: rouge
 :listing-caption: Listing
 :sectnums:
 :chapter-label:
@@ -52,6 +51,8 @@ ces démarches :*
 Je pense que ce que je vais apprendre pendant le stage c'est exactement ce que
 je veut faire dans le futur : c'est-à-dire un travail dans le domaine de l'informatique
 (programmation, codage etc...). Je pense que je vais apprendre beaucoup de choses.
+
+<<<
 
 === Fiche d'identité de l'entreprise
 
