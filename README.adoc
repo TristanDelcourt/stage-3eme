@@ -17,7 +17,7 @@ Cette entreprise faisant parti du milieu informatique, mon maitre de stage
 m'a proposé de faire mon rapport avec https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[asciidoc].
 C'est un outil pour écrire des documents plus facilement et rapidement sans se soucier de l'aspect visuel.
 
-image::Exterieur.jpg[400,400,role=fa-rotate-90]
+image::Exterieur.jpg[]
 
 Présentation asciidoctor: https://www.youtube.com/watch?v=T6YJlaY0Dpw
 
