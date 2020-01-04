@@ -62,7 +62,7 @@ image::cdc-informatique-logo.svg[width=600, align="center"]
 
 *Nom (raison sociale) :* Informatique Caisses des dépôts et consignations
 
-*Adresse (siège social) :* 4 rue Berthollet 94110 ARCUEIL
+*Adresse (siège social) :* 4 rue Berthollet 94110 ARCUEIL
 
 *Téléphone :* 01 58 50 00 00
 
