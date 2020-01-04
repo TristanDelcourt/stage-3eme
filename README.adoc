@@ -638,7 +638,7 @@ pas de problèmes et si il y en a ils essayent de les réparer.
 diriger l'utilisation des ressources d'un ordinateur par des logiciels applicatifs.
 Ex: Linus, Windows, Unix etc...
 
-=== Jeudi
+=== Jeudi 19
 
 ==== Réunion de service
 
@@ -655,7 +655,7 @@ Ce temps est important pour se relâcher et prendre du recule sur les tâches en
 
 TODO image FIFA
 
-=== Vendredi
+=== Vendredi 20
 
 ==== Le jeu du pendu
 J'ai développé, avec l'aide de mon maître de stage, le jeu du "pendu" afin
