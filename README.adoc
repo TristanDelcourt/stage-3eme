@@ -94,6 +94,8 @@ image::cdc-informatique-logo.svg[width=600, align="center"]
 
 *Chiffre d'affaires :* 236 400 000€ en 2018
 
+<<<
+
 === Historique de l'entreprise
 
 ==== Origine de l'entreprise
@@ -198,6 +200,8 @@ problèmes individuels des employés.
 === L'organigramme
 
 image::Organigramme.png[]
+
+<<<
 
 === L'activité principale
 
@@ -345,6 +349,8 @@ Ce projet à commencé debut Septembre 2019 avec un objectif de mise en service 
 
 Dans ce but, l'équipe travaille avec la méthodologie "Agile".
 
+<<<
+
 === Méthodologie de travail AGILE
 
 ==== Qu'est-ce que c'est?
@@ -403,6 +409,8 @@ le logiciel et ils votent sur le nombre de points d'efforts
 nécessaires à la réalisation de cette tâche.
 
 image::Affinage.jpg[]
+
+<<<
 
 ==== La revue de Sprint (Sprint Review)
 
@@ -579,6 +587,8 @@ L'equipe a présenté le travail qu'elle a fait pendant le Sprint.
 Chaque membre de l'équipe à fait une démonstration de la fonctionnalité qu'il a développé
 
 image::Demo.jpg[]
+
+<<<
 
 ==== Rétro sprint
 
