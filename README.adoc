@@ -1,5 +1,5 @@
 = STAGE EN ENTREPRISE 2019-2020
-Tistan Delcourt <tristandelcourt826@gmail.com>
+Tristan Delcourt <tristandelcourt826@gmail.com>
 :doctype: book
 :reproducible:
 :listing-caption: Listing
@@ -15,7 +15,7 @@ Tistan Delcourt <tristandelcourt826@gmail.com>
 J'ai effectué mon stage de 3ème à Informatique CDC (ICDC) à Bordeaux.
 Cette entreprise faisant parti du milieu informatique, mon maitre de stage
 m'a proposé de faire mon rapport avec https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[asciidoc].
-C'est un outils pour écrire des documents plus facilement et rapidement sans se soucier de l'aspect visuel.
+C'est un outil pour écrire des documents plus facilement et rapidement sans se soucier de l'aspect visuel.
 
 Présentation asciidoctor: https://www.youtube.com/watch?v=T6YJlaY0Dpw
 
@@ -49,7 +49,7 @@ ces démarches :*
 *...Plus précisément, ce que je pense apprendre au cours de ce stage c'est :*
 
 Je pense que ce que je vais apprendre pendant le stage c'est exactement ce que
-je veut faire dans le futur : c'est-à-dire un travail dans le domaine de l'informatique
+je veut faire dans l'avenir: c'est-à-dire un travail dans le domaine de l'informatique
 (programmation, codage etc...). Je pense que je vais apprendre beaucoup de choses.
 
 <<<
@@ -64,23 +64,23 @@ image::cdc-informatique-logo.svg[width=600, align="center"]
 
 *Téléphone :* 01 58 50 00 00
 
-==== Analyze juridique
+==== Analyse juridique
 
 * Organisation:
 ** GIE, Groupement d'Intérêt Economique, qui intervient hors champ concurrentiel et
  garantit une externalisation souple et sereine des actifs informatiques.
 
-==== Analyze sectorielle
+==== Analyse sectorielle
 
 * *Nature de l'activité*
 
 ** Prestataire de services
 
-* *Secteur d'activite*
+* *Secteur d'activité*
 
 ** Tertiaire
 
-==== Analyze dimensionnelle
+==== Analyse dimensionnelle
 
 *Effectif :*
 
@@ -106,9 +106,9 @@ L'entreprise appartient à la CDC
 
 Il y a maintenant 794 salariés.
 
-L'entreprise est située à plusieurs sites: Paris, Bordeaux, Angers, Arcueil (en locurence Bordeaux)
+L'entreprise est située sur plusieurs sites: Paris, Bordeaux, Angers, Arcueil (en l'occurence Bordeaux)
 
-Son activité principale était la gestion du système d’information/informatique de la CDC.
+Son activité principale est la gestion du système d’information/informatique de la CDC.
 
 ==== L'entreprise demain
 
@@ -149,7 +149,6 @@ image::Shema.png[]
 | Administration | La https://www.editions-legislatives.fr/actualite/formation-professionnelle-ce-qui-change-au-1er-janvier-2019[loi Avenir professionnel] du 5 septembre 2018 a opéré une nouvelle réforme de la formation professionnelle.
 | Fournisseur | HP (ordinateur, écran, portables, certaines imprimantes)
 | Prestataires de service | Atos fourni des développeur, des testeurs...
-| Banques | Quels services la banque fournit-elle à l'entreprise ? ...
 
 |===
 
@@ -179,7 +178,7 @@ image::Shema.png[]
 |===
 
 | *Existe t'il ?* Oui
-| *Quel est son röle dans l'entreprise ?* Il traite les axes
+| *Quel est son rôle dans l'entreprise ?* Il traite les axes
 stratégiques, il fait la gestion des finances
 
 |===
@@ -189,7 +188,7 @@ stratégiques, il fait la gestion des finances
 |===
 
 | *Existent t'ils ?* Oui
-| *Quels sont leurs rôles dans une entreprise ?* Il règles les 
+| *Quels sont leurs rôles dans une entreprise ?* Ils règles les 
 problèmes individuels des employés.
 
 |===
@@ -202,12 +201,12 @@ image::Organigramme.png[]
 
 *Choisir un bien ou un service fourni par l'entreprise.*
 
-* Quel est-il ? L'application du https://play.google.com/store/apps/details?id=fr.icdc.sl6.app[Compte Personnel de Formation] qui permet a chaque 
+* Quel est-il ? L'application du https://play.google.com/store/apps/details?id=fr.icdc.sl6.app[Compte Personnel de Formation] qui permet à chaque 
 Français d'acheter une formation avec des droits acquis.
 
 * Appartient-il à une gamme de produits ou de services ? Oui
 
-* Si Oui : Citer un autre service ou produit de la gamme: https://www.cnracl.retraites.fr/actif/mon-espace-personnel[Le portail] "Espace Personnel" de geston de la retraite des agents de la fonction publique est une plateforme Internet destinée aux actifs affiliés à l'un des fonds, ou caisses de retraites, gérés par la Direction des retraites et de la solidarité de la Caisse des Dépôts (CNRACL, RAFP, FSPOEIE, Ircantec...).
+* Si Oui : Citer un autre service ou produit de la gamme: https://www.cnracl.retraites.fr/actif/mon-espace-personnel[Le portail] "Espace Personnel" de gestion de la retraite des agents de la fonction publique est une plateforme Internet destinée aux actifs affiliés à l'un des fonds, ou caisses de retraites, gérés par la Direction des retraites et de la solidarité de la Caisse des Dépôts (CNRACL, RAFP, FSPOEIE, Ircantec...).
 
 *A propos de son prix de revient pour l'entreprise*
 
@@ -241,15 +240,15 @@ elle revend à prix coûtant.
 [qanda]
 *Dans votre travail, quelles sont vos activités principales, celles que vous faites le plus souvent ?*::
 
-* Comprehension du besoin client
+* Compréhension du besoin client
 * Conception de la solution technique
-* Developpement de la solution
+* Développement de la solution
 * Ecriture de tests automatisés pour vérifier le bonne implémentation des besoins client
 * Documentation de la solution technique ( avec AsciiDoc )
 
 *Parmi ces activités quelles sont celles que vous préférez ? Pourquoi ?*::
 
-* "Toutes car c’est un travail où la communication est très importante et
+* "Toutes, car c’est un travail où la communication est très importante et
  le travail en équipe indispensable. Le métier de développeur nécessite 
  une perpétuelle remise en question afin de suivre le rythme d’évolution des
  technologies"
@@ -258,13 +257,13 @@ elle revend à prix coûtant.
 *Vous déplacez-vous régulièrement ?*::
 
 * "Assez peu de déplacement, parfois sur les autres sites du groupe ou pour des formations.
-Travaille 100% bureau mais dans de bonnes conditions qu’elles soient matérielles 
+Travaille 100% bureau mais dans de bonnes conditions, qu’elles soient matérielles 
 (poste de travail, bureau, ...) ou immatérielles ( management à l'ecoute )."
 
 *Travaillez- vous plutôt en équipe, individuellement ou un peu des deux ?*::
 
 * "Je travail en équipe, c'est un des aspects les plus important de notre métier!
-Savoir communiquer est une qualité indispensable dans le réalisation d'un logiciel"
+Savoir communiquer est une qualité indispensable dans la réalisation d'un logiciel"
 
 *Prenez-vous des décisions qui engagent votre responsabilité ? si oui, dans quelles situations ?*::
 
@@ -275,7 +274,7 @@ le besoin exprimé"
 *Lorsque vous effectuez une activité, est-ce pour réaliser quelque chose qui vous a été demandé ?*::
 *Si oui, cette demande vient de vos clients ou de votre supérieur ?*::
 
-* "Oui, les besoins clients sont décrits et priorisé par une personne
+* "Oui, les besoins clients sont décrits et priorisés par une personne
  dédiée dans l’équipe sans notion de hiérarchie (Le Product Owner) , c’est cette personne qui
  décide quelles tâches sont à développer en priorité"
  
@@ -284,8 +283,8 @@ le besoin exprimé"
 
 * Avantages : Le travail en équipe et la sensation de rendre la vie de 
 nos utilisateurs plus simple
-* Contraintes : Ne pas être en contact directe avec l’utilisateur
- finale et être toujours à jour avec les nouvelles technologies qui évoluent 
+* Contraintes : Ne pas être en contact direct avec l’utilisateur
+ final et être toujours à jour avec les nouvelles technologies qui évoluent 
  très vite.
 
 *A votre avis, quelles sont les qualités qui sont nécessaires pour pouvoir faire ce métier ?*::
@@ -295,9 +294,9 @@ nos utilisateurs plus simple
 *Pensez-vous qu'il y ait d'autre chose que je devrais savoir si, un jour, je veux faire votre métier ?*::
 
 * "Être développeur est pour moi un métier de passionné et exige de se remettre en question très souvent. 
-Les technologies et les besoins utilisateurs évoluant trés vite, il faut avoir une grande soif d'apprendre."
+Les technologies et les besoins utilisateurs évoluant très vite, il faut avoir une grande soif d'apprendre."
 
-===  Maintenant, quelques questions sur sa formation et de son parcours proffessionnel.
+===  Maintenant, quelques questions sur sa formation et de son parcours professionnel.
 
 [qanda]
 *Depuis quand exercez-vous ce métier (Donnez le nom du métier) ?*::
@@ -310,7 +309,7 @@ Les technologies et les besoins utilisateurs évoluant trés vite, il faut avoir
 
 *Avez-vous déjà exercé d'autres métiers que celui-ci ? si oui, lesquels ?*::
 
-* "Oui, Des petits boulots d'été: Agent d'entretien et agent de cuisine dans un hopital
+* "Oui, Des petits boulots d'été: Agent d'entretien et agent de cuisine dans un hôpital
 
 *Quelle est votre formation ?*::
 
@@ -319,7 +318,7 @@ Les technologies et les besoins utilisateurs évoluant trés vite, il faut avoir
 *Moi, cette année, je suis en 3ème, est-ce que vous pouvez me dire quelles sont les formations que je pourrais suivre pour exercer votre métier un jour ?*::
 
 * "Au lycée, suivre un cursus scientifique avec si possible une option
- d'infromatique ensuite un BTS ou un IUT d'informatique après le BAC.
+ d'informatique. Ensuite un BTS ou un IUT d'informatique après le BAC.
  Tu pourras poursuivre par une école d'ingénieur ou un master à l'université."
 
 == Programme du stage
@@ -331,7 +330,7 @@ de 3ème. Ludovic Callerot, mon maitre de stage, m'a fait un emploi du temps pou
 semaine. J'ai pu voir différents métiers comme développeur, MOA, architecte etc...
 
 J'ai donc passé ma semaine de stage au sein de cette équipe où j'ai pu observer et 
-partager leur quotidien.
+partager leurs quotidiens.
 
 === L'équipe "Plateforme Employeur"
 
@@ -342,7 +341,7 @@ employeur de pouvoir faire des demandes de retraite pour ses employés, ...
 
 Ce projet à commencé debut Septembre 2019 avec un objectif de mise en service en 2020.
 
-Dans ce but l'équipe travail avec la méthodologie "Agile".
+Dans ce but, l'équipe travail avec la méthodologie "Agile".
 
 === Méthodologie de travail AGILE
 
@@ -354,10 +353,10 @@ livrer un logiciel fonctionnel de façon itérative (toute les 3 semaines).
 image::Agilite.png[]
 
 Une itération est appelé un "Sprint", et pendant ce "Sprint", de nouvelles 
-fonctionnalités sont ajoutées au logiciel puis montré au client (Revue de Sprint).
+fonctionnalités sont ajoutées au logiciel puis montrés au client (Revue de Sprint).
 
-A la fin de chaque Sprint, une démonstration du logiciel est donc effectué en présence du Client,
-et enfin une "rétropective" est faite entre les membres de l'équipe.
+A la fin de chaque Sprint, une démonstration du logiciel est donc effectuée en présence du Client,
+et enfin une "rétrospective" est faite entre les membres de l'équipe.
 La rétrospective permet à l'équipe de comprendre ce qui s'est bien passé et moins bien passé 
 pendant le Sprint et d'en dégager des actions pour s'améliorer.
 
@@ -370,12 +369,12 @@ L'equipe de developpement regroupe toutes les personnes permettant la réalisati
 du logiciel, à savoir ici : 
 
 * *Les développeurs* : Ceux qui developpent l'application
-* *L'UX designer et l'UI designer* : Ceux qui définissent coment s'utilise l'application et à quoi elle ressemble
+* *L'UX designer et l'UI designer* : Ceux qui définissent comment s'utilise l'application et à quoi elle ressemble
 
 ===== Le Scrum Master
 
 Il doit s'assurer que tous les membre de l'équipe respectent les principes Agile.
-Il n'est pas un "chef" et doit donner à l'équipe les "clés" de la reussite.
+Il n'est pas un "chef" et doit donner à l'équipe les "clés" de la réussite.
 
 ===== Le Product Owner
 
@@ -391,7 +390,7 @@ priorisées par le "Product Owner", et celle-ci doivent être utilisables.
 
 ==== Le "daily meeting"
 
-Tous les jours l'équipe projet se réunit de 9h40 à 10h et parlent de ce
+Tous les jours l'équipe projet se réunit de 9h40 à 10h et parle de ce
 qu'ils ont fait la veille et ce qu'ils vont faire aujourd'hui et les 
 problèmes qu'ils ont rencontrés.
 
@@ -405,8 +404,8 @@ image::Affinage.jpg[]
 
 ==== La revue de Sprint (Sprint Review)
 
-Toute les trois semaines (en locurence de 9h30 à 11h) l'équipe et quelques personnes en plus (utilisateurs du produits etc...)
-se réunnissent pour faire une démonstration de ce qui a été developpé dans le Sprint passé et avoir les retours du client.
+Toute les trois semaines (en l'occurence de 9h30 à 11h) l'équipe et quelques personnes en plus (utilisateurs du produits etc...)
+se réunissent pour faire une démonstration de ce qui a été developpé dans le Sprint passé et avoir les retours du client.
 
 ==== La rétrospective
 
@@ -415,8 +414,8 @@ et ce qu'il faudrai améliorer.
 
 ==== Le Sprint Planning (Plannification du Sprint)
 
-Cette cérémonie a lieu juste apres la rétrospective et avant le debut du prochain Sprint.
-L'equipe décide des fonctionnalités qui sont embarquées dans le prochain Sprint.
+Cette réunion a lieu juste après la rétrospective et avant le début du prochain Sprint.
+L'équipe décide des fonctionnalités qui sont embarquées dans le prochain Sprint.
 
 == Ma semaine de stage
 
@@ -430,7 +429,7 @@ image::EmploisDuTemps.PNG[]
 
 Chaque fin de journée j'ai écrit une partie du rapport sur asciidoc.
 Mais pour transformer le fichier `.adoc` en `.pdf` il fallait utiliser un 
-outils nommé asciidoctorPDF basé sur le langage Ruby que j'ai du installer 
+outils nommé asciidoctorPDF basé sur le langage Ruby que j'ai dû installer 
 sur mon PC.
 
 [source,asciidoc]
@@ -470,7 +469,7 @@ Par exemple voici les dépots de code :
 * de Google : https://github.com/google/
 * de Microsoft : https://github.com/MicrosoftLearning/
 
-J'ai moi meme créé mon propre depôt de code sur GitHub pour y deposer
+J'ai moi même créé mon propre dépôt de code sur GitHub pour y déposer
 mon rapport de stage et le jeu du pendu.
 
 Voici les principales commandes que j'ai utilisé pour publier mon code : 
@@ -507,8 +506,8 @@ Le premier jour je me suis présenté et j'ai écouter ce q'on dit les autres.
 
 ==== Environnement de travail
 
-Ils sont par équipes (en locurence 15 personnes). Ils ont chacun un ordinateur et ils travaillent
-sur des tâches à développer pour le projet. Il y a 7 developpeurs (Ludovic, Yoann, Vincent, Rémix, Maël, Alexandre; Ahmed)
+Ils sont par équipes (en 'loccurence 15 personnes). Ils ont chacun un ordinateur et ils travaillent
+sur des tâches à développer pour le projet. Il y a 7 developpeurs (Ludovic, Yoann, Vincent, Rémix, Maël, Alexandre; Ahmed),
 2 product owner (Pierre-Henry, Zineb), 1 scrum master (Alexia), 3 MOA (David, séverine, Bertrand) , 1 User experience designer (Nassim), 1 UI designer (Clément)
 
 image::Bureau.jpg[]
@@ -516,7 +515,7 @@ image::Bureau.jpg[]
 ==== Affinage
 
 J'ai pu paticiper à l'affinage en jouant au petit jeu de cartes. On a
-tous des cartes allant de 0 à 100 points d'efforts et chaque nouvelle fonctionnalité on vote. Voici sur quoi on a voté:
+tous des cartes allant de 0 à 100 points d'efforts et à chaque nouvelle fonctionnalité, on vote. Voici sur quoi on a voté:
 
 * E11US11 – Notification par le header : 8 points d'efforts
 
@@ -574,7 +573,7 @@ et ils écrivent des users stories (description de nouvelles fonctionnalités vo
 
 ==== Revue du Sprint
 
-L'equipe a présenté le travail qu'il ont fait pendant le Sprint. 
+L'equipe a présenté le travail qu'elle a fait pendant le Sprint. 
 Chaque membre de l'équipe à fait une démonstration de la fonctionnalité qu'il a développé
 
 image::Demo.jpg[]
@@ -583,9 +582,9 @@ image::Demo.jpg[]
 
 image::Roles.png[]
 
-J'ai pu prticiper au rétro en étand le "Gardien du temps", c'est  dire que
+J'ai pu participer au rétro en étant le "Gardien du temps", c'est  dire que
 je disais le nombre de minutes restantes à l'activité et quand c'était fini.
-Rémix était le distributeur de parole, Maël le scribe, et Alexandre le pousse-déscision.
+Rémix était le distributeur de parole, Maël le scribe, et Alexandre le pousse-décision.
 
 image::Aime.jpg[align="center"]
 
@@ -600,13 +599,13 @@ J'ai rencontré Phillipe Boudigues, c'est lui qui coordonne les processus entre 
 ==== Visite du "data center"
 
 Cette salle est où tout les ordinateurs qui executent les VM sont réunis
-et elle est climatisé intensivement car tout les ordinateurs font fonctionner
+et elle est climatisée intensivement car tout les ordinateurs font fonctionner
 plus de 2000 VM alors la salle peut chauffer très vite.
 
 ==== Des notions que j'ai appris
 
 *Le cloud*: Le Cloud est une technologie qui permet
- de mettre sur des serveurs localisés a distance des données de stockage
+ de mettre sur des serveurs localisés à distance des données de stockage
  ou des logiciels qui sont habituellement stockés sur l'ordinateur d'un
  utilisateur
  
@@ -628,8 +627,8 @@ plus de 2000 VM alors la salle peut chauffer très vite.
 ==== Rencontre avec une équipe de DBAs
 
 L'équipe DBA (en anglais "Data Base) est l'équipe qui prend en charge
-la maintenance des bases de données. Ils vérifient qu'ils n'y a
-pas de problèmes et si il y en a il essayent de les réparer.
+la maintenance des bases de données. Ils vérifient qu'il n'y a
+pas de problèmes et si il y en a ils essayent de les réparer.
 
 ==== Des notions que j'ai appris
 
@@ -642,10 +641,10 @@ Ex: Linus, Windows, Unix etc...
 ==== Réunion de service
 
 Dans ses 2 heures de réunion, une personne de la sécurité informatique
-nous a présenté les résultats d'un audit de sécurité e toutes les applications
-de la caisse des dépots. Ces applications étant organisé par niveau de
+nous a présenté les résultats d'un audit de sécurité de toutes les applications
+de la caisse des dépots. Ces applications sont organisées par niveau de
 sécurité allant de faible à fort. Les applications faibles présentants
-un risques d'intrusions.
+des risques d'intrusions.
 
 ==== Les pauses
 
@@ -657,8 +656,8 @@ TODO image FIFA
 === Vendredi
 
 ==== Le jeu du pendu
-J'ai développé avec l'aide de mon maître de stage le jeu du "pendu" afin
-de voir concretement ce qu'est le developpement d'un programme informatique.
+J'ai développé, avec l'aide de mon maître de stage, le jeu du "pendu" afin
+de voir concrêtement ce qu'est le developpement d'un programme informatique.
 
 Le language de programmation utilisé est `Java`.
 
@@ -738,8 +737,8 @@ public static void main(String[] args) {
 
 ==== Le "daily meeting par Skype
 
-Le vendrdi une partie de l'équipe décident de travailler de chez eux (cela s'appelle le télétravail). Le daily meeting ce fait donc
-par Skype pour dialogué avec tout les membres de l'équipe.
+Le vendredi une partie de l'équipe décident de travailler de chez eux (cela s'appelle le télétravail). Le daily meeting ce fait donc
+par Skype pour dialoguer avec tous les membres de l'équipe.
 
 == Bilan
 
@@ -754,3 +753,5 @@ Si j'avais l'occasion de faire de l'informatique je suis presque sûr que je pre
 image::Lettre-Mot.jpg[]
 
 == La lettre de remerciement
+
+image::lettre-de-remerciement-entreprise.jpg[]
