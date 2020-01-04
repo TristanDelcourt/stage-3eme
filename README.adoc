@@ -51,7 +51,7 @@ ces démarches :*
 *...Plus précisément, ce que je pense apprendre au cours de ce stage c'est :*
 
 Je pense que ce que je vais apprendre pendant le stage c'est exactement ce que
-je veut faire dans l'avenir: c'est-à-dire un travail dans le domaine de l'informatique
+je veux faire dans l'avenir: c'est-à-dire un travail dans le domaine de l'informatique
 (programmation, codage etc...). Je pense que je vais apprendre beaucoup de choses.
 
 <<<
@@ -224,7 +224,7 @@ Français d'acheter une formation avec des droits acquis.
 
 *A propos de son prix de vente fixé par l'entreprise*
 
-Le fait que ICDC soit un GIE implique qu'elle ne fait pas de bénéfices ni de pertes,
+Le fait que ICDC soit un GIE implique qu'elle ne fait pas de bénéfice ni de perte,
 elle revend à prix coûtant.
 
 == Le métier observé
@@ -327,7 +327,7 @@ Les technologies et les besoins utilisateurs évoluant très vite, il faut avoir
 
 === Introduction
 
-Du *16 au 20 Décembre* une équipe d'informatique CDC m'a accueilli pour mon stage
+Du *16 au 20 Décembre* une équipe d'informatique CDC m'a accueillie pour mon stage
 de 3ème. Ludovic Callerot, mon maitre de stage, m'a fait un emploi du temps pour la
 semaine. J'ai pu voir différents métiers comme développeur, MOA, architecte etc...
 
@@ -343,19 +343,19 @@ employeur de pouvoir faire des demandes de retraite pour ses employés, ...
 
 Ce projet à commencé debut Septembre 2019 avec un objectif de mise en service en 2020.
 
-Dans ce but, l'équipe travail avec la méthodologie "Agile".
+Dans ce but, l'équipe travaille avec la méthodologie "Agile".
 
 === Méthodologie de travail AGILE
 
 ==== Qu'est-ce que c'est?
 
-C'est une méthode de travail à l'echelle d'une équipe qui consiste à developper et 
+C'est une méthode de travail à l'echelle d'une équipe qui consiste à développer et 
 livrer un logiciel fonctionnel de façon itérative (toute les 3 semaines).
 
 image::Agilite.png[]
 
 Une itération est appelé un "Sprint", et pendant ce "Sprint", de nouvelles 
-fonctionnalités sont ajoutées au logiciel puis montrés au client (Revue de Sprint).
+fonctionnalités sont ajoutées au logiciel puis montrées au client (Revue de Sprint).
 
 A la fin de chaque Sprint, une démonstration du logiciel est donc effectuée en présence du Client,
 et enfin une "rétrospective" est faite entre les membres de l'équipe.
@@ -367,28 +367,28 @@ pendant le Sprint et d'en dégager des actions pour s'améliorer.
 
 ===== L'équipe de developpement
 
-L'equipe de developpement regroupe toutes les personnes permettant la réalisation 
+L'equipe de développement regroupe toutes les personnes permettant la réalisation 
 du logiciel, à savoir ici : 
 
-* *Les développeurs* : Ceux qui developpent l'application
+* *Les développeurs* : Ceux qui développent l'application
 * *L'UX designer et l'UI designer* : Ceux qui définissent comment s'utilise l'application et à quoi elle ressemble
 
 ===== Le Scrum Master
 
-Il doit s'assurer que tous les membre de l'équipe respectent les principes Agile.
+Il doit s'assurer que tous les membres de l'équipe respectent les principes Agile.
 Il n'est pas un "chef" et doit donner à l'équipe les "clés" de la réussite.
 
 ===== Le Product Owner
 
-C'est lui qui définie et priorise les fonctionnalités de l'application à developper.
+C'est lui qui définit et priorise les fonctionnalités de l'application à développer.
 Il a la responsabilité de comprendre le besoin du client pour le retranscrire à 
-l'équipe de developpement.
+l'équipe de développement.
 
 ==== La notion de "Sprint"
 
-Un Sprint est donc une itération dans le developpement du logiciel de 3 semaines.
+Un Sprint est donc une itération dans le développement du logiciel de 3 semaines.
 A la fin d'un Sprint, le logiciel doit avoir des fonctionnalités supplémentaires 
-priorisées par le "Product Owner", et celle-ci doivent être utilisables.
+priorisées par le "Product Owner", et celles-ci doivent être utilisables.
 
 ==== Le "daily meeting"
 
@@ -398,16 +398,16 @@ problèmes qu'ils ont rencontrés.
 
 ==== L'affinage (Planning Poker)
 
-C'est une réunion toute les semaines où la MOA présente les nouvelles fonctionnalités à intégrer dans
+C'est une réunion toutes les semaines où la MOA présente les nouvelles fonctionnalités à intégrer dans
 le logiciel et ils votent sur le nombre de points d'efforts
-necessaires à la réalisation de cette tâche.
+nécessaires à la réalisation de cette tâche.
 
 image::Affinage.jpg[]
 
 ==== La revue de Sprint (Sprint Review)
 
-Toute les trois semaines (en l'occurence de 9h30 à 11h) l'équipe et quelques personnes en plus (utilisateurs du produits etc...)
-se réunissent pour faire une démonstration de ce qui a été developpé dans le Sprint passé et avoir les retours du client.
+Toute les trois semaines (en l'occurence de 9h30 à 11h) l'équipe et quelques personnes en plus (utilisateurs du produit etc...)
+se réunissent pour faire une démonstration de ce qui a été développé dans le Sprint passé et avoir les retours du client.
 
 ==== La rétrospective
 
@@ -431,7 +431,7 @@ image::EmploisDuTemps.PNG[]
 
 Chaque fin de journée j'ai écrit une partie du rapport sur asciidoc.
 Mais pour transformer le fichier `.adoc` en `.pdf` il fallait utiliser un 
-outils nommé asciidoctorPDF basé sur le langage Ruby que j'ai dû installer 
+outil nommé asciidoctorPDF basé sur le langage Ruby que j'ai dû installer 
 sur mon PC.
 
 [source,asciidoc]
@@ -504,19 +504,19 @@ git push
 
 ==== Daily meeting
 
-Le premier jour je me suis présenté et j'ai écouter ce q'on dit les autres.
+Le premier jour je me suis présenté et j'ai écouté ce qu'on dit les autres.
 
 ==== Environnement de travail
 
-Ils sont par équipes (en 'loccurence 15 personnes). Ils ont chacun un ordinateur et ils travaillent
-sur des tâches à développer pour le projet. Il y a 7 developpeurs (Ludovic, Yoann, Vincent, Rémix, Maël, Alexandre; Ahmed),
-2 product owner (Pierre-Henry, Zineb), 1 scrum master (Alexia), 3 MOA (David, séverine, Bertrand) , 1 User experience designer (Nassim), 1 UI designer (Clément)
+Ils sont par équipes (en l'occurence 15 personnes). Ils ont chacun un ordinateur et ils travaillent
+sur des tâches à développer pour le projet. Il y a 7 développeurs (Ludovic, Yoann, Vincent, Rémix, Maël, Alexandre; Ahmed),
+2 products owner (Pierre-Henry, Zineb), 1 scrum master (Alexia), 3 MOA (David, Séverine, Bertrand) , 1 User experience designer (Nassim), 1 UI designer (Clément)
 
 image::Bureau.jpg[]
 
 ==== Affinage
 
-J'ai pu paticiper à l'affinage en jouant au petit jeu de cartes. On a
+J'ai pu participer à l'affinage en jouant au petit jeu de cartes. On a
 tous des cartes allant de 0 à 100 points d'efforts et à chaque nouvelle fonctionnalité, on vote. Voici sur quoi on a voté:
 
 * E11US11 – Notification par le header : 8 points d'efforts
@@ -550,24 +550,24 @@ l'informer d'une inscription à la plateforme Employeurs de la DRS
 
 ==== Rencontre avec un architecte applicatif (Gilles)
 
-J'ai rencontré Gilles Capdet, c'est lui qui organise et shématise les relations entre les différents
-programmes et servers. On lui dit ce qu'il doit y avoir sur son shéma et il l'organise.
+J'ai rencontré Gilles Capdet, c'est lui qui organise et schématise les relations entre les différents
+programmes et servers. On lui dit ce qu'il doit y avoir sur son schéma et il l'organise.
 
 ==== Rencontre avec un chef de projet (Damien)
 
-J'ai rencontré Damien Bertrand, c'est lui qui dirige le déroulement des ces developeurs et ils codent aussi 
+J'ai rencontré Damien Bertrand, c'est lui qui dirige le déroulement des ces dévelopeurs et il code aussi 
 quand il peut.
 
 ==== Les notions que j'ai appris
 
-*Base de données*: Elle permet de stocker d'une façon organisé et permet de retrouver des
+*Base de données*: Elle permet de stocker d'une façon organisée et permet de retrouver des
 informations en rapport avec un thème ou une activité très rapidement.
 
 *Points d'effots*: Permet de mesurer le temps et la difficulté de la 
 tâche à faire.
 
-*MOA*: (Maitrise d'Ouvrage) Ce sont les personnes qui sont en contacte avec les utilisateurs
-et ils écrivent des users stories (description de nouvelles fonctionnalités voulus).
+*MOA*: (Maitrise d'Ouvrage) Ce sont les personnes qui sont en contact avec les utilisateurs
+et ils écrivent des users stories (description de nouvelles fonctionnalités voulues).
 
 *UI*: (en anglais "user interface") Interface de l'utilisateur.
 
@@ -584,7 +584,7 @@ image::Demo.jpg[]
 
 image::Roles.png[]
 
-J'ai pu participer au rétro en étant le "Gardien du temps", c'est  dire que
+J'ai pu participer au rétro en étant le "Gardien du temps", c'est à dire que
 je disais le nombre de minutes restantes à l'activité et quand c'était fini.
 Rémix était le distributeur de parole, Maël le scribe, et Alexandre le pousse-décision.
 
@@ -600,8 +600,8 @@ J'ai rencontré Phillipe Boudigues, c'est lui qui coordonne les processus entre 
 
 ==== Visite du "data center"
 
-Cette salle est où tout les ordinateurs qui executent les VM sont réunis
-et elle est climatisée intensivement car tout les ordinateurs font fonctionner
+Cette salle est où tous les ordinateurs qui executent les VM sont réunis
+et elle est climatisée intensivement car tous les ordinateurs font fonctionner
 plus de 2000 VM alors la salle peut chauffer très vite.
 
 ==== Des notions que j'ai appris
@@ -628,7 +628,7 @@ plus de 2000 VM alors la salle peut chauffer très vite.
 
 ==== Rencontre avec une équipe de DBAs
 
-L'équipe DBA (en anglais "Data Base) est l'équipe qui prend en charge
+L'équipe DBA (en anglais "Data Base") est l'équipe qui prend en charge
 la maintenance des bases de données. Ils vérifient qu'il n'y a
 pas de problèmes et si il y en a ils essayent de les réparer.
 
@@ -645,25 +645,25 @@ Ex: Linus, Windows, Unix etc...
 Dans ses 2 heures de réunion, une personne de la sécurité informatique
 nous a présenté les résultats d'un audit de sécurité de toutes les applications
 de la caisse des dépots. Ces applications sont organisées par niveau de
-sécurité allant de faible à fort. Les applications faibles présentants
-des risques d'intrusions.
+sécurité allant de faible à fort. Les applications faibles présentant
+des risques d'intrusion.
 
 ==== Les pauses
 
 Entre midi et 14h l'équipe à un temps de pause et j'ai pu apprendre beaucoup de choses à propos du jeu FIFA 20.
 Ce temps est important pour se relâcher et prendre du recule sur les tâches en cours.
 
-TODO image FIFA
+image::FIFA.jpg[]
 
 === Vendredi 20
 
 ==== Le jeu du pendu
 J'ai développé, avec l'aide de mon maître de stage, le jeu du "pendu" afin
-de voir concrêtement ce qu'est le developpement d'un programme informatique.
+de voir concrêtement ce qu'est le développement d'un programme informatique.
 
-Le language de programmation utilisé est `Java`.
+Le langage de programmation utilisé est `Java`.
 
-Voici la méthode principale du jeu developpé.
+Voici la méthode principale du jeu développé.
 
 Le code source complet est disponible https://github.com/TristanDelcourt/stage-3eme/tree/master/code-pendu/src/fr/icdc/dei/pendu[ici]
 
@@ -739,15 +739,15 @@ public static void main(String[] args) {
 
 ==== Le "daily meeting par Skype
 
-Le vendredi une partie de l'équipe décident de travailler de chez eux (cela s'appelle le télétravail). Le daily meeting ce fait donc
+Le vendredi une partie de l'équipe décide de travailler de chez eux (cela s'appelle le télétravail). Le daily meeting ce fait donc
 par Skype pour dialoguer avec tous les membres de l'équipe.
 
 == Bilan
 
 J'ai été plûtot surpris par mon stage. Je ne m'attendais pas à ce qu'il y est autant de réunion et de RDV.
-Mais j'ai beaucoup appris et j'ai bien aimé. J'ai le plus aimé le codage du jeu de pendu car j'ai pu vriment comprendre
+Mais j'ai beaucoup appris et j'ai bien aimé. J'ai le plus aimé le codage du jeu de pendu car j'ai pu vraiment comprendre
 ce que c'est le codage et j'ai trouvé ça très satisfaisant de finir un programme.
-Je retiendrais que toutes l'organisation est très important et ce n'est pas juste du codage.
+Je retiendrais que toute l'organisation est très importante et ce n'est pas juste du codage.
 Si j'avais l'occasion de faire de l'informatique je suis presque sûr que je prendrais cette chance car j'ai été très intéréssé.
 
 == La lettre de motivation
