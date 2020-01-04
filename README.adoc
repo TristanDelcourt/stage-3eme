@@ -17,6 +17,8 @@ Cette entreprise faisant parti du milieu informatique, mon maitre de stage
 m'a proposé de faire mon rapport avec https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[asciidoc].
 C'est un outil pour écrire des documents plus facilement et rapidement sans se soucier de l'aspect visuel.
 
+image::Exterieur.jpg[400,400,role=fa-rotate-90]
+
 Présentation asciidoctor: https://www.youtube.com/watch?v=T6YJlaY0Dpw
 
 == L'entreprise
@@ -126,12 +128,12 @@ image::Shema.png[]
 |Nom des partenaires
 |Role
 
-| La caisse des dépôts et Consignations | Achètent et consomment les biens ou services de l'entreprise. Ils peuvent être des ménages ou d'autres entreprises.
+| La caisse des dépôts et Consignations | Achètent et consomment les biens ou services de l'entreprise. Ils peuvent être des ménages ou d'autres entreprises.
 | L'entreprise est régit par la convention collective https://www.syntec.fr/convention-collective/[SYNTEC] | Réglemente l'activité de l'entreprise.
 | L'électricité: EDF; Cisco : (réseaux); HP (ordinateur, écran, portables, certaines imprimantes); Konica (imprimantes multifonctions); Hitachi (disque dur de
- serveurs); Microsoft, Landesk, Citrix (OS, logiciel de gestion de parc et d’utilisateurs)| Apportent à l'entreprise les matières premières et les fournitures nécessaires à son activité.
+ serveurs); Microsoft, Landesk, Citrix (OS, logiciel de gestion de parc et d’utilisateurs)| Apportent à l'entreprise les matières premières et les fournitures nécessaires à son activité.
 | Les sociétés Atos, Apside, OnePoint ou encore Econocom sont prestataires de services pour ICDC et
- les accompagnent dans le développement et l'exploitation des logiciels informatique | Apportent à l'entreprise de très nombreux services qui lui sont
+ les accompagnent dans le développement et l'exploitation des logiciels informatique | Apportent à l'entreprise de très nombreux services qui lui sont
  nécessaires pour fonctionner.
 | La caisse des dépôts et consignations | Apportent à l'entreprise l'argent nécessaire pour régler ses créances et l'aider dans ses investissements.
 
@@ -254,7 +256,7 @@ elle revend à prix coûtant.
  technologies"
 
 *Quelles sont vos conditions de travail ? Travaillez-vous plutôt en extérieur ou en bureau ?*::
-*Vous déplacez-vous régulièrement ?*::
+*Vous déplacez-vous régulièrement ?*::
 
 * "Assez peu de déplacement, parfois sur les autres sites du groupe ou pour des formations.
 Travaille 100% bureau mais dans de bonnes conditions, qu’elles soient matérielles 
@@ -315,7 +317,7 @@ Les technologies et les besoins utilisateurs évoluant très vite, il faut avoir
 
 * "Un IUT d'informatique option génie logiciel puis une license professionnelle d'informatique option image et son"
 
-*Moi, cette année, je suis en 3ème, est-ce que vous pouvez me dire quelles sont les formations que je pourrais suivre pour exercer votre métier un jour ?*::
+*Moi, cette année, je suis en 3ème, est-ce que vous pouvez me dire quelles sont les formations que je pourrais suivre pour exercer votre métier un jour ?*::
 
 * "Au lycée, suivre un cursus scientifique avec si possible une option
  d'informatique. Ensuite un BTS ou un IUT d'informatique après le BAC.
