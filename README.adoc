@@ -760,9 +760,11 @@ ce que c'est le codage et j'ai trouvé ça très satisfaisant de finir un progra
 Je retiendrais que toute l'organisation est très importante et ce n'est pas juste du codage.
 Si j'avais l'occasion de faire de l'informatique je suis presque sûr que je prendrais cette chance car j'ai été très intéréssé.
 
-== La lettre de motivation
+== La lettre de motivation avec le CV
 
 image::Lettre-Mot.jpg[]
+
+image::CV.png[]
 
 == La lettre de remerciement
 
