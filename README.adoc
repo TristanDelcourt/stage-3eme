@@ -479,7 +479,7 @@ Par exemple voici les dépots de code :
 * de Google : https://github.com/google/
 * de Microsoft : https://github.com/MicrosoftLearning/
 
-J'ai moi même créé mon propre dépôt de code sur GitHub pour y déposer
+J'ai moi même créé mon propre dépôt de code sur https://github.com/TristanDelcourt/stage-3eme[GitHub] pour y déposer
 mon rapport de stage et le jeu du pendu.
 
 Voici les principales commandes que j'ai utilisé pour publier mon code : 
