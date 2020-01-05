@@ -517,7 +517,7 @@ Le premier jour je me suis présenté et j'ai écouté ce qu'on dit les autres.
 ==== Environnement de travail
 
 Ils sont par équipes (en l'occurence 15 personnes). Ils ont chacun un ordinateur et ils travaillent
-sur des tâches à développer pour le projet. Il y a 7 développeurs (Ludovic, Yoann, Vincent, Rémix, Maël, Alexandre; Ahmed),
+sur des tâches à développer pour le projet. Il y a 7 développeurs (Ludovic, Yoann, Vincent, Rémi, Maël, Alexandre; Ahmed),
 2 products owner (Pierre-Henry, Zineb), 1 scrum master (Alexia), 3 MOA (David, Séverine, Bertrand) , 1 User experience designer (Nassim), 1 UI designer (Clément)
 
 image::Bureau.jpg[]
@@ -766,4 +766,10 @@ image::Lettre-Mot.jpg[]
 
 == La lettre de remerciement
 
+===  A la responsable de l'entrprise
+
 image::lettre-de-remerciement-entreprise.jpg[]
+
+===  à l'équipe
+
+image::lettre-de-remerciement-équipe.png[]
