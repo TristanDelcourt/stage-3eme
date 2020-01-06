@@ -768,10 +768,10 @@ image::CV.png[]
 
 == La lettre de remerciement
 
-===  A la responsable de l'entrprise
+===  A la responsable de l'entreprise
 
 image::lettre-de-remerciement-entreprise.jpg[]
 
-===  à l'équipe
+===  A l'équipe
 
-image::lettre-de-remerciement-équipe.png[]
+image::lettre-de-remerciement-équipe.jpg[]
