@@ -125,6 +125,8 @@ le machine learning et le big data afin de produire des services et applications
 
 image::Shema.png[]
 
+<<<
+
 [cols=2*,options="header"]
 |===
 |Nom des partenaires
@@ -161,6 +163,8 @@ image::Shema.png[]
 *Nombre total de salariés :* 794
 
 *Nombre d'hommes :* 534 *Nombre de femmes :* 260
+
+<<<
 
 [cols=3*,options="header"]
 .Les métiers pratiqués dans l'entreprise
@@ -596,11 +600,13 @@ image::Roles.png[]
 
 J'ai pu participer au rétro en étant le "Gardien du temps", c'est à dire que
 je disais le nombre de minutes restantes à l'activité et quand c'était fini.
-Rémix était le distributeur de parole, Maël le scribe, et Alexandre le pousse-décision.
+Rémi était le distributeur de parole, Maël le scribe, et Alexandre le pousse-décision.
 
 image::Aime.jpg[align="center"]
 
 image::Souhaits.jpg[align="center"]
+
+<<<
 
 ==== Rencontre avec un ingénieur DevOps (Phillipe)
 
@@ -752,6 +758,7 @@ public static void main(String[] args) {
 Le vendredi une partie de l'équipe décide de travailler de chez eux (cela s'appelle le télétravail). Le daily meeting ce fait donc
 par Skype pour dialoguer avec tous les membres de l'équipe.
 
+[option="unbreakable"]
 == Bilan
 
 J'ai été plûtot surpris par mon stage. Je ne m'attendais pas à ce qu'il y est autant de réunion et de RDV.
