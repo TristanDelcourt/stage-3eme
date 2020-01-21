@@ -1,4 +1,4 @@
-= STAGE EN ENTREPRISE 2019-2020
+﻿= STAGE EN ENTREPRISE 2019-2020
 Tristan Delcourt <tristandelcourt826@gmail.com>
 :doctype: book
 :reproducible:
@@ -677,7 +677,7 @@ Voici la méthode principale du jeu développé.
 
 Le code source complet est disponible https://github.com/TristanDelcourt/stage-3eme/tree/master/code-pendu/src/fr/icdc/dei/pendu[ici]
 
-[source,java]
+[source%autofit,java]
 ----
 public static void main(String[] args) {
 		System.out.println("Bienveue sur le jeu de Pendu codé par Tristan Delcourt");
