@@ -602,9 +602,9 @@ J'ai pu participer au rétro en étant le "Gardien du temps", c'est à dire que
 je disais le nombre de minutes restantes à l'activité et quand c'était fini.
 Rémi était le distributeur de parole, Maël le scribe, et Alexandre le pousse-décision.
 
-image::Aime.jpg[align="center"]
+image::Aime.jpg[align="center", width=80%]
 
-image::Souhaits.jpg[align="center"]
+image::Souhaits.jpg[align="center", width=80%]
 
 <<<
 
@@ -758,7 +758,6 @@ public static void main(String[] args) {
 Le vendredi une partie de l'équipe décide de travailler de chez eux (cela s'appelle le télétravail). Le daily meeting ce fait donc
 par Skype pour dialoguer avec tous les membres de l'équipe.
 
-[option="unbreakable"]
 == Bilan
 
 J'ai été plûtot surpris par mon stage. Je ne m'attendais pas à ce qu'il y est autant de réunion et de RDV.
